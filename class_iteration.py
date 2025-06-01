@@ -18,6 +18,3 @@ class my_iter ():
 		
 for a in my_iter(1,189):
 	print(a)
-			
-for j in range(5):
-	print(5)
