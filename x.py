@@ -1,7 +1,6 @@
-import turtle as t
-def draw():
-    t.penup()
-    t.goto(0,-20)
-    t.pendown()
-    t.circle(20)
-draw()
+#complex
+a=5+6j
+real=a.real()
+imag=a.imag()
+print(real)
+print(imag)

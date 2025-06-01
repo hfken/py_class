@@ -30,5 +30,4 @@ print('{0:d} {0:b} {0:o} {0:0x}'.format(10))
 print(f'my name is {0.123:.2f}')
 print(f"{'hello'.upper()}")
 
-str()
 
