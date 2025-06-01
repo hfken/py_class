@@ -1,4 +1,5 @@
 #complex
 a=5+6j
-print(a.real)
-imag=a.imag
+real=a.real#type=float 5.0
+imag=a.imag#type=float 6.0
+print(real,imag)
