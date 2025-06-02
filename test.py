@@ -1,6 +1,19 @@
-MA = lambda x,y:(x>y)*x+(x<y)*y
-MI = lambda x,y:(x>y)*y+(x<y)*x
-a =10
-b=20
-print(MA(a,b))
-print(MI(a,b))
+def a():
+	print('A')
+	return []
+def b():
+	print ('B')
+	return []
+def c():
+	print ('C')
+	return 1
+def d():
+	print ('D')
+	return []
+def e():
+	print ('E')
+	return 1
+
+if a() and b() and c() and d() and e():
+		print ('ok')
+	
