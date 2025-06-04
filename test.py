@@ -1,3 +1,5 @@
-for i in range(1,5):
-  for j in range(3,9):
-    print(i*j)
+import random
+a=random.randint(1,100)
+while a<50:
+  a=random.randint(1,100)
+print(a)

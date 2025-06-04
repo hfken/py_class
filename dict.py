@@ -11,7 +11,7 @@ print(len(dict1)) #2
 
 #.keys()    以列表返回字典的键 是迭代器
 #.values()   以列表返回字典的值 是迭代器
-#.items()   返回键值的二元组 是迭代器
+#.items()   返回键值的二元元组 是迭代器
 dict1.keys()
 dict1.values()
 dict1.items()
@@ -20,10 +20,14 @@ dict1.items()
 dict1['name']='Jack'
 
 #排序
-print(sorted(dict1.items(),reverse=True))
+print(sorted(dict1.items(),reverse=True))#先按照key排，再按照value排
 
 #快速更新表中元素
 ainfo={'name':'peter','age':18}
 binfo={'name':'Jack','age':20,'gender':'male'}
 ainfo.update(binfo)# ainfo={}
 print(ainfo)
+
+#字典的排序
+dict2={'a':1,'b':3,'c':5,'d':0}
+print(sorted(dict2.items(),key=lambda x:x[1]))
