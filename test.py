@@ -1,3 +1,3 @@
-def fun(x):
-    return x**10+10
-fun(2)
+for i in range(1,5):
+  for j in range(3,9):
+    print(i*j)
