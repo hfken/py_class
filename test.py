@@ -1,3 +1,4 @@
-x=10;y=100
-a=x if x>=y else y
-print(a)
+ss=['e','h','b','s','l','p']
+for i in range(len(ss)):
+  print(max(ss),end=",")
+  ss.remove(max(ss))
