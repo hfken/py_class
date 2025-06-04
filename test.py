@@ -1,19 +1,9 @@
-def a():
-	print('A')
-	return []
-def b():
-	print ('B')
-	return []
-def c():
-	print ('C')
-	return 1
-def d():
-	print ('D')
-	return []
-def e():
-	print ('E')
-	return 1
-
-if a() and b() and c() and d() and e():
-		print ('ok')
-	
+a=int(input("请输入a:"))
+n=int(input("请输入n:"))
+s=0
+for i in range(1,n+1):
+  t=
+  for j in range(1,i+1):
+    t=t+a*10**(j)
+  s=s+t
+print(s)

@@ -10,7 +10,7 @@ test(b,a)
 print(a,b)
 
 #可变长度参数:元组,字典
-def example(arg1, *args, kwarg1=None, **kwargs):
+def example(arg1, *args, kwarg1=None, **kwargs):#*后表示元组，**后表示字典
     print(f"arg1: {arg1}")
     print(f"args: {args}")
     print(f"kwarg1: {kwarg1}")
