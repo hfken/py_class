@@ -3,10 +3,11 @@
 try:
     #包裹可能引发异常的代码
     pass
-except:
-    pass
+
 except ValueError:
     #用于捕获错误类型
+    pass
+except:
     pass
 else:
     #如果正常运行，则执行else语句块内容
