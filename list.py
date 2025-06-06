@@ -9,10 +9,6 @@ list1=list('abc') #转换为['a','b','c']
 list1.pop(1)
 #如果参数为空，则会把最后一个元素移除，并返回它
 
-#列表删除指定的值或元素
-list1.remove('a') #若删除的元素不存在,则会报错
-
-#列表增添一个值到列表尾部
 list1.append(5)
 print(list1)
 
@@ -42,3 +38,8 @@ list2=[i for i in range(1,6) if i%5==0]
 print(list2)
 
 
+
+#列表删除指定的值或元素
+list1.remove('a') #若删除的元素不存在,则会报错
+
+#列表增添一个值到列表尾部
