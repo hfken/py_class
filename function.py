@@ -1,3 +1,6 @@
+#使用函数时不需要了解其内部具体实现的细节
+
+
 #函数改变参数值的说明
 #如果参数是可变对象（列表，字典） 在函数中引用修改原对象时，原参数值会被改变 如list.append()
 #如果是不可变对象（整数，字符串）在函数中引用修改原对象时，原参数值不会被改变
@@ -7,10 +10,10 @@ def test(b,a):
       a.append(6)
       b=6
 test(b,a)
-print(a,b)
+print(a,b) #[1, 2, 3, 4, 5, 6] 5
 
 #可变长度参数:元组,字典
-def example(arg1, *args, kwarg1=None, **kwargs):
+def example(arg1, *args, kwarg1=None, **kwargs):#*后表示元组，**后表示字典
     print(f"arg1: {arg1}")
     print(f"args: {args}")
     print(f"kwarg1: {kwarg1}")

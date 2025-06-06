@@ -1,19 +1,7 @@
-def a():
-	print('A')
-	return []
-def b():
-	print ('B')
-	return []
-def c():
-	print ('C')
-	return 1
-def d():
-	print ('D')
-	return []
-def e():
-	print ('E')
-	return 1
-
-if a() and b() and c() and d() and e():
-		print ('ok')
-	
+def fact(n):
+    if n == 0:
+        return 1
+    else :
+        return n * fact(n-1)
+num = eval(input('请输入一个整数：'))
+print(fact(abs(int(num))))
