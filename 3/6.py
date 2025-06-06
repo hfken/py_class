@@ -18,5 +18,3 @@ for i in raw:
             out=0
     print(up[out],end='')
     lo+=1
-
-
