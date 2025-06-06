@@ -29,7 +29,7 @@ def void(a,b,c=6):
 #lambda函数
 #能够在一行内写的简单函数,简化使用功能
 a=[1,2,4,6,5,3]
-print(sorted(a,key=lambda a:a<4,reverse=True))
+print(sorted(a))
 
 iterable=[1,2,3,4]
 # sum()函数
