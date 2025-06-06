@@ -1,5 +1,3 @@
-letter=['A','B','C','D','D','D']
-for i in letter:
-  if i=='D':
-    letter.remove(i)
-print(letter)
+def fun(x):
+    return x**10+10
+fun(2)
