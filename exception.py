@@ -3,7 +3,6 @@
 try:
     #包裹可能引发异常的代码
     pass
-
 except ValueError:
     #用于捕获错误类型
     pass

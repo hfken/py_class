@@ -1,2 +1,6 @@
-if 0.1+0.3:print('a')
-if 0.1+0.2:print('b')
+try:
+    print(1/0)
+except:
+    print('no')
+finally:
+    print('hello')
