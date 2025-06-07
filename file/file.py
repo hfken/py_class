@@ -1,6 +1,8 @@
-with open(r'file/text.txt','w',encoding='utf-8') as f:
-    f.seek(0,2)
-    print(f.readline(),end='')
+with open(r'file/text.txt','w',encoding='utf-8',newline='\n') as fw,\
+open(r'file/text.txt','r',encoding='utf-8',newline='\n') as fr:
+    fw.writelines('\n'.join(['hello','hi']))
+    fw.seek(0)
+    print(repr(fr.readline()))
     
   
 
