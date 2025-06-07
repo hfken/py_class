@@ -1,0 +1,3194 @@
+ï»¿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no,email=no,adress=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+    <title>ä¸­å½ç¿ä¸å¤§å­¦</title><META Name="keywords" Content="ä¸­å½ç¿ä¸å¤§å­¦" />
+
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/a_animate.css">
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="css/style25.css">
+    <script src="js/jquery.js"></script>
+    <!--[if lt IE 10]>
+    <script type="text/javascript">
+        var str = "ä½ çæµè§å¨çæ¬å¤ªä½äº,è¯·æ´æ°è³IE10 å IE10 ä»¥ä¸çæ¬:(";
+        var str2 = "æ¨èä½¿ç¨:<a href='' target='_blank' style='color:blue;'>è°·æ­</a>,"
+                + "<a href='' target='_blank' style='color:blue;'>ç«ç</a>,"
+                + "å¶ä»åæ ¸æéæ¨¡å¼";
+        document.writeln("<pre style='text-align:center;color:#fff;background-color:#0cc; height:100%;border:0;position:fixed;top:0;left:0;width:100%;z-index:1234;font-size:28px !important;'>" +
+                "<h2 style='padding-top:200px;margin:0;line-height:35px;font-size:28px;'><strong>" + str + "<br/></strong></h2><h2>" +
+                str2 + "</h2><h2 style='margin:0;line-height:35px;font-size:28px;'><strong>å¦æä½ çä½¿ç¨çæ¯åæ ¸æµè§å¨,è¯·åæ¢å°æéæ¨¡å¼è®¿é®<br/></strong></h2></pre>");
+        document.execCommand("Stop");
+    </script>
+[endif]-->
+
+<style>
+.home3-t .left .con .more{
+    position: relative;
+    top: 50%;
+    transform: translateY(-150%);
+    float: right;}
+.home3-t .left .con .more a {
+    color: #fff;}
+.home3-t .left .con .imged {
+    padding-bottom: 1.7rem;}
+.home3-t .left .con>h3 {
+    margin-top: 0.2rem !important;}
+.h3-t4{width: 50%;height: 4.25rem;background: url(images/h3bg4.jpg) no-repeat center/cover;padding: 0.4rem 0.4rem 0;}
+.home3-t .left .con {
+    padding: 0.4rem 0.4rem 0;}
+.home3-t .con .arror {}
+.home3-t .left .con>h3 {
+    font-size: 0.16rem;}
+.h3-t2 li h3 {
+    font-size: 0.16rem;}
+.h3-t1 li .con h3 {
+    font-size: 0.16rem;} 
+      
+
+@media screen and (max-width: 600px){
+.home3-t .left .con .imged {
+    padding-bottom: 60%;}
+.h3-t4 {
+    width: 100%;
+    margin-top: 0.25rem;}
+    
+}
+    
+</style>
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:77656262657232307764475c50515742000000034e56 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,1565984872)</script>
+</head>
+
+<body>
+    <section class="body_h">
+    <section class="header_box" id="headtop">
+        <section class="header_box_li">
+            <header id="header" class="head">
+                <div class="head-t wl">
+                    <div class="wp">
+                        <div class="header_top">
+                            <div class="list_box0">
+                            <script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/openlink.js"></script>
+
+
+  
+                                       <div class="li">
+                                        <div class="select">
+                                            <h2 class="flex">
+                                                <p>å¨æ ¡å­¦ç</p>
+                                                <img src="images/arrow_down.svg" alt="">
+                                            </h2>
+                                            <ul style="display: none;">
+                                      
+    <LI><a href="zxxs.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96487)">å¨æ ¡å­¦ç</a></li>
+    <LI><a href="jzyg.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96489)">æèåå·¥</a></li>
+    <LI><a href="byxy1.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96490)">æ¯ä¸æ ¡å</a></li>
+    <LI><a href="wlxs.htm" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96491)">æªæ¥å­¦ç</a></li>
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                              
+
+         <div class="li">
+                                    <div class="a">
+                                      <a href="https://global.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99152)" target="_blank">EN</a>
+                                    </div>
+                                </div>
+
+                         
+                                <div class="li">
+                                    <div class="top-c">
+                                        <a href="javascript:;" class="search_btn"> <img src="images/ser.png" alt=""></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="head-b flex">
+                    <div class="wp">
+                        <div class="head-l"> <nav id="nav">
+                                <ul>
+                               
+<li class="on"><a href="index.htm"> <h3 class="wl">ç½ç«é¦é¡µ</h3></a>
+</li>
+<li><a href="xxgk/xxjj.htm"> <h3 class="wl">å­¦æ ¡æ¦åµ</h3></a>
+    <div class="sub">
+     <div class="box">
+ <h3><a href="xxgk/xxjj.htm" target="_blank" class="wl">å­¦æ ¡ç®ä»</a>
+</h3>
+ <h3><a href="xxgk/kdzc1.htm" target="_blank" class="wl">ç¿å¤§ç« ç¨</a>
+</h3>
+ <h3><a href="xxgk/lsyg.htm" target="_blank" class="wl">åå²æ²¿é©</a>
+</h3>
+ <h3><a href="xxgk/lrld.htm" target="_blank" class="wl">åä»»é¢å¯¼</a>
+</h3>
+ <h3><a href="xxgk/xrld.htm" target="_blank" class="wl">ç°ä»»é¢å¯¼</a>
+</h3>
+ <h3><a href="xxgk/jbsj2.htm" target="_blank" class="wl">åºæ¬æ°æ®</a>
+</h3>
+ <h3><a href="xxgk/zmxz.htm" target="_blank" class="wl">ç¥åå­¦è</a>
+</h3>
+ <h3><a href="xxgk/xywh/xyjs.htm" target="_blank" class="wl">æ ¡å­æå</a>
+</h3>
+ <h3><a href="http://vcampus.cumt.edu.cn/#/nh/dimension" target="_blank" class="wl">èææ ¡å­</a>
+</h3>
+ <h3><a href="xxgk/lxwm.htm" target="_blank" class="wl">èç³»æä»¬</a>
+</h3>
+ </div>
+ </div>
+</li>
+<li><a href="jgsz/dqzz.htm"> <h3 class="wl">æºæè®¾ç½®</h3></a>
+    <div class="sub">
+     <div class="box">
+ <h3><a href="jgsz/dqzz.htm" target="_blank" class="wl">åç¾¤ç»ç»</a>
+</h3>
+ <h3><a href="jgsz/xzgl.htm" target="_blank" class="wl">è¡æ¿ç®¡ç</a>
+</h3>
+ <h3><a href="jgsz/xysz.htm" target="_blank" class="wl">å­¦é¢è®¾ç½®</a>
+</h3>
+ <h3><a href="jgsz/kyjg.htm" target="_blank" class="wl">ç§ç æºæ</a>
+</h3>
+ <h3><a href="jgsz/zfsdw.htm" target="_blank" class="wl">ç´éå±åä½</a>
+</h3>
+ <h3><a href="jgsz/cydw.htm" target="_blank" class="wl">äº§ä¸åä½</a>
+</h3>
+ <h3><a href="jgsz/qt.htm" target="_blank" class="wl">å¶ä»</a>
+</h3>
+ </div>
+ </div>
+</li>
+<li><a href="javascript:void(0);"> <h3 class="wl">æè²æå­¦</h3></a>
+    <div class="sub">
+     <div class="box">
+ <h3><a href="http://jwb.cumt.edu.cn" target="_blank" class="wl">æå¡é¨</a>
+</h3>
+ <h3><a href="http://gs.cumt.edu.cn/" target="_blank" class="wl">ç ç©¶çé¢</a>
+</h3>
+ <h3><a href="http://sac.cumt.edu.cn/" target="_blank" class="wl">å½éå­¦é¢</a>
+</h3>
+ <h3><a href="http://sce.cumt.edu.cn" target="_blank" class="wl">ç»§ç»­æè²å­¦é¢</a>
+</h3>
+ <h3><a href="https://cumtjf.mh.chaoxing.com/" target="_blank" class="wl">æå¸æå­¦åå±ä¸­å¿</a>
+</h3>
+ <h3><a href="http://cumt.fy.chaoxing.com/portal" target="_blank" class="wl">å¨çº¿å­¦ä¹ ï¼MOOCï¼å¹³å°</a>
+</h3>
+ <h3><a href="http://lib.cumt.edu.cn/" target="_blank" class="wl">å¾ä¹¦é¦</a>
+</h3>
+ <h3><a href="http://gjzx.cumt.edu.cn/" target="_blank" class="wl">å¬å±æå­¦æå¡ä¸­å¿</a>
+</h3>
+ </div>
+ </div>
+</li>
+<li><a href="javascript:void(0);"> <h3 class="wl">ç§å­¦ç ç©¶</h3></a>
+    <div class="sub">
+     <div class="box">
+ <h3><a href="http://dsi.cumt.edu.cn" target="_blank" class="wl">ç§å­¦ææ¯ç ç©¶é¢</a>
+</h3>
+ <h3><a href="http://sk.cumt.edu.cn/" target="_blank" class="wl">äººæç¤¾ä¼ç§å­¦å¤</a>
+</h3>
+ <h3><a href="kxyj/kypt.htm" target="_blank" class="wl">ç§ç å¹³å°</a>
+</h3>
+ <h3><a href="kxyj/kyxm.htm" target="_blank" class="wl">ç§ç é¡¹ç®</a>
+</h3>
+ <h3><a href="kxyj/kytd.htm" target="_blank" class="wl">ç§ç å¢é</a>
+</h3>
+ <h3><a href="kxyj/kycg.htm" target="_blank" class="wl">ç§ç ææ</a>
+</h3>
+ <h3><a href="kxyj/xsqk.htm" target="_blank" class="wl">å­¦æ¯æå</a>
+</h3>
+ <h3><a href="http://aacc.cumt.edu.cn/" target="_blank" class="wl">ç°ä»£åæä¸è®¡ç®ä¸­å¿</a>
+</h3>
+ </div>
+ </div>
+</li>
+        </ul>
+                            </nav>
+
+
+
+       
+
+
+</div>
+                        <div id="logo">
+<!-- ç½ç«logoå¾çå°åè¯·å¨æ¬ç»ä»¶"åå®¹éç½®-ç½ç«logo"å¤å¡«å -->
+<a href="index.htm" title="ä¸­å½ç¿ä¸å¤§å­¦">  <img src="images/logo.png" alt=""></a></div>
+                        <div class="head-l"> <nav id="nav">
+                                <ul>
+                               
+<li><a href="javascript:void(0);"> <h3 class="wl">å­¦ç§å»ºè®¾</h3></a>
+    <div class="sub">
+     <div class="box">
+ <h3><a href="http://xkc.cumt.edu.cn/" target="_blank" class="wl">å­¦ç§å»ºè®¾å¤</a>
+</h3>
+ <h3><a href="http://xkc.cumt.edu.cn/syljs/jsxk.htm" target="_blank" class="wl">âåä¸æµâå»ºè®¾</a>
+</h3>
+ <h3><a href="http://xkc.cumt.edu.cn/xkdh/zdxk.htm" target="_blank" class="wl">éç¹å­¦ç§</a>
+</h3>
+ <h3><a href="http://xkc.cumt.edu.cn/xkdh/xkd.htm" target="_blank" class="wl">å­¦ä½ææç¹</a>
+</h3>
+ </div>
+ </div>
+</li>
+<li><a href="javascript:void(0);"> <h3 class="wl">åä½äº¤æµ</h3></a>
+    <div class="sub">
+     <div class="box">
+ <h3><a href="http://international.cumt.edu.cn/" target="_blank" class="wl">å½éåä½äº¤æµå¤</a>
+</h3>
+ <h3><a href="http://global.cumt.edu.cn/International_Higher_Education_Alliance_for_Mining.htm" target="_blank" class="wl">å½éç¿ä¸èç</a>
+</h3>
+ <h3><a href="http://ecdd.cumt.edu.cn/" target="_blank" class="wl">å¯¹å¤åä½ä¸åå±å¤</a>
+</h3>
+ <h3><a href="http://dsh.cumt.edu.cn/" target="_blank" class="wl">çäºä¼</a>
+</h3>
+ <h3><a href="https://cumtxyh.cumt.edu.cn/" target="_blank" class="wl">æ ¡åä¼</a>
+</h3>
+ <h3><a href="http://edf.cumt.edu.cn/" target="_blank" class="wl">æè²åå±åºéä¼</a>
+</h3>
+ <h3><a href="http://jypxc.cumt.edu.cn/" target="_blank" class="wl">ç¿å¤§å¹è®­ç½</a>
+</h3>
+ </div>
+ </div>
+</li>
+<li><a href="javascript:void(0);"> <h3 class="wl">äººææè</h3></a>
+    <div class="sub">
+     <div class="box">
+ <h3><a href="http://hr.cumt.edu.cn" target="_blank" class="wl">äººåèµæºé¨</a>
+</h3>
+ <h3><a href="https://hr.cumt.edu.cn/info/1024/3228.htm" target="_blank" class="wl">é«å±æ¬¡äººæ</a>
+</h3>
+ <h3><a href="https://hr.cumt.edu.cn/info/1025/3229.htm" target="_blank" class="wl">ä¸ä»»æå¸</a>
+</h3>
+ <h3><a href="https://hr.cumt.edu.cn/info/1026/3326.htm" target="_blank" class="wl">åå£«å</a>
+</h3>
+ </div>
+ </div>
+</li>
+<li><a href="javascript:void(0);"> <h3 class="wl">æçå°±ä¸</h3></a>
+    <div class="sub">
+     <div class="box">
+ <h3><a href="http://zs.cumt.edu.cn/" target="_blank" class="wl">æ¬ç§çæç</a>
+</h3>
+ <h3><a href="http://yz.cumt.edu.cn/" target="_blank" class="wl">ç ç©¶çæç</a>
+</h3>
+ <h3><a href="http://sce.cumt.edu.cn" target="_blank" class="wl">ç»§ç»­æè²æç</a>
+</h3>
+ <h3><a href="http://sac.cumt.edu.cn/" target="_blank" class="wl">åºå½çå­¦</a>
+</h3>
+ <h3><a href="http://sac.cumt.edu.cn/en/?tdsourcetag=s_pcqq_aiomsg" target="_blank" class="wl">æ¥åçå­¦</a>
+</h3>
+ <h3><a href="http://www.91job.org.cn/sub-station/home/10290" target="_blank" class="wl">å°±ä¸æå¯¼</a>
+</h3>
+ </div>
+ </div>
+</li>
+<li class="last"><a href="javascript:void(0);"> <h3 class="wl">ç¸å³é¾æ¥</h3></a>
+    <div class="sub">
+     <div class="box">
+ <h3><a href="http://www.cumtb.edu.cn" target="_blank" class="wl">ä¸­å½ç¿ä¸å¤§å­¦ï¼åäº¬ï¼</a>
+</h3>
+ <h3><a href="http://xhxy.cumt.edu.cn/" target="_blank" class="wl">å¾æµ·å­¦é¢</a>
+</h3>
+ <h3><a href="http://www.cumtusp.com" target="_blank" class="wl">å½å®¶å¤§å­¦ç§æå­</a>
+</h3>
+ <h3><a href="http://www.cumtp.com/" target="_blank" class="wl">ç¿å¤§åºçç¤¾</a>
+</h3>
+ <h3><a href="http://sjy.cumt.edu.cn/" target="_blank" class="wl">ä¸­å½ç¿ä¸å¤§å­¦å·¥ç¨å¨è¯¢ç ç©¶é¢ï¼æ±èï¼æéå¬å¸</a>
+</h3>
+ <h3><a href="http://www.xzsdyyy.com/" target="_blank" class="wl">ç¿å¤§éå±å»é¢ï¼å¸ä¸é¢ï¼</a>
+</h3>
+ </div>
+ </div>
+</li>
+        </ul>
+                            </nav>
+
+
+
+       
+
+
+</div>
+
+                    </div>
+                </div>
+            </header>
+        </section>
+    </section>
+    <!--wap header-->
+    <section class="m_header_box">
+        <header id="m_header">
+            <div id="logo">
+            
+<!-- ç½ç«logoå¾çå°åè¯·å¨æ¬ç»ä»¶"åå®¹éç½®-ç½ç«logo"å¤å¡«å -->
+<a href="index.htm" title="ä¸­å½ç¿ä¸å¤§å­¦">  <img src="images/logo.png" alt=""></a>
+            </div>
+            <div id="nav_btn_box">
+                <aside id="nav_btn">
+                    <div class="point" name="1" id="mbtn"> <span class="navbtn"></span> </div>
+                </aside>
+            </div>
+        </header>
+    </section>
+
+    <nav id="m_nav">
+        <div class="wap_search"><script type="text/javascript">
+    function _nl_ys_check_mobile(){
+        
+        var keyword = document.getElementById('showkeycode1127260').value;
+        if(keyword==null||keyword==""){
+            alert("è¯·è¾å¥ä½ è¦æ£ç´¢çåå®¹ï¼");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey1127260").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey1127260").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey1127260").value = base64.encode(document.getElementById("lucenenewssearchkey1127260").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode1127260"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1001" method="post" id="au6a" name="au6a" onsubmit="return _nl_ys_check_mobile()" target="_blank" class="header-search">
+ <input type="hidden" id="lucenenewssearchkey1127260" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype1127260" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope1127260" name="searchScope" value="1">
+         <input type="text" class="input" placeholder="è¯·è¾å¥æç´¢å³é®è¯" name="showkeycode" id="showkeycode1127260" autocomplete="off">
+                <button type="submit" class="btn_blue" value=""></button>
+</form>
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+</div>
+
+       <ul class="list_box_nav_mobile">
+<li class="on"><div class="con">
+                    <a class="a" href="index.htm">ç½ç«é¦é¡µ</a><i></i> </div>
+<div class="list">
+<a href="index/xxgg.htm" target="_blank" }>ä¿¡æ¯å¬å</a>
+
+   </div>
+</li>
+<li><div class="con">
+                    <a class="a" href="xxgk/xxjj.htm">å­¦æ ¡æ¦åµ</a><i></i> </div>
+<div class="list">
+<a href="xxgk/xxjj.htm" target="_blank" }>å­¦æ ¡ç®ä»</a>
+
+<a href="xxgk/kdzc1.htm" target="_blank" }>ç¿å¤§ç« ç¨</a>
+
+<a href="xxgk/lsyg.htm" target="_blank" }>åå²æ²¿é©</a>
+
+<a href="xxgk/lrld.htm" target="_blank" }>åä»»é¢å¯¼</a>
+
+<a href="xxgk/xrld.htm" target="_blank" }>ç°ä»»é¢å¯¼</a>
+
+<a href="xxgk/jbsj2.htm" target="_blank" }>åºæ¬æ°æ®</a>
+
+<a href="xxgk/zmxz.htm" target="_blank" }>ç¥åå­¦è</a>
+
+<a href="xxgk/xywh/xyjs.htm" target="_blank" }>æ ¡å­æå</a>
+
+<a href="http://vcampus.cumt.edu.cn/#/nh/dimension" target="_blank" }>èææ ¡å­</a>
+
+<a href="xxgk/lxwm.htm" target="_blank" }>èç³»æä»¬</a>
+
+   </div>
+</li>
+<li><div class="con">
+                    <a class="a" href="jgsz/dqzz.htm">æºæè®¾ç½®</a><i></i> </div>
+<div class="list">
+<a href="jgsz/dqzz.htm" target="_blank" }>åç¾¤ç»ç»</a>
+
+<a href="jgsz/xzgl.htm" target="_blank" }>è¡æ¿ç®¡ç</a>
+
+<a href="jgsz/xysz.htm" target="_blank" }>å­¦é¢è®¾ç½®</a>
+
+<a href="jgsz/kyjg.htm" target="_blank" }>ç§ç æºæ</a>
+
+<a href="jgsz/zfsdw.htm" target="_blank" }>ç´éå±åä½</a>
+
+<a href="jgsz/cydw.htm" target="_blank" }>äº§ä¸åä½</a>
+
+<a href="jgsz/qt.htm" target="_blank" }>å¶ä»</a>
+
+   </div>
+</li>
+<li><div class="con">
+                    <a class="a" href="javascript:void(0);">æè²æå­¦</a><i></i> </div>
+<div class="list">
+<a href="http://jwb.cumt.edu.cn" target="_blank" }>æå¡é¨</a>
+
+<a href="http://gs.cumt.edu.cn/" target="_blank" }>ç ç©¶çé¢</a>
+
+<a href="http://sac.cumt.edu.cn/" target="_blank" }>å½éå­¦é¢</a>
+
+<a href="http://sce.cumt.edu.cn" target="_blank" }>ç»§ç»­æè²å­¦é¢</a>
+
+<a href="https://cumtjf.mh.chaoxing.com/" target="_blank" }>æå¸æå­¦åå±ä¸­å¿</a>
+
+<a href="http://cumt.fy.chaoxing.com/portal" target="_blank" }>å¨çº¿å­¦ä¹ ï¼MOOCï¼å¹³å°</a>
+
+<a href="http://lib.cumt.edu.cn/" target="_blank" }>å¾ä¹¦é¦</a>
+
+<a href="http://gjzx.cumt.edu.cn/" target="_blank" }>å¬å±æå­¦æå¡ä¸­å¿</a>
+
+   </div>
+</li>
+<li><div class="con">
+                    <a class="a" href="javascript:void(0);">ç§å­¦ç ç©¶</a><i></i> </div>
+<div class="list">
+<a href="http://dsi.cumt.edu.cn" target="_blank" }>ç§å­¦ææ¯ç ç©¶é¢</a>
+
+<a href="http://sk.cumt.edu.cn/" target="_blank" }>äººæç¤¾ä¼ç§å­¦å¤</a>
+
+<a href="kxyj/kypt.htm" target="_blank" }>ç§ç å¹³å°</a>
+
+<a href="kxyj/kyxm.htm" target="_blank" }>ç§ç é¡¹ç®</a>
+
+<a href="kxyj/kytd.htm" target="_blank" }>ç§ç å¢é</a>
+
+<a href="kxyj/kycg.htm" target="_blank" }>ç§ç ææ</a>
+
+<a href="kxyj/xsqk.htm" target="_blank" }>å­¦æ¯æå</a>
+
+<a href="http://aacc.cumt.edu.cn/" target="_blank" }>ç°ä»£åæä¸è®¡ç®ä¸­å¿</a>
+
+   </div>
+</li>
+<li><div class="con">
+                    <a class="a" href="javascript:void(0);">å­¦ç§å»ºè®¾</a><i></i> </div>
+<div class="list">
+<a href="http://xkc.cumt.edu.cn/" target="_blank" }>å­¦ç§å»ºè®¾å¤</a>
+
+<a href="http://xkc.cumt.edu.cn/syljs/jsxk.htm" target="_blank" }>âåä¸æµâå»ºè®¾</a>
+
+<a href="http://xkc.cumt.edu.cn/xkdh/zdxk.htm" target="_blank" }>éç¹å­¦ç§</a>
+
+<a href="http://xkc.cumt.edu.cn/xkdh/xkd.htm" target="_blank" }>å­¦ä½ææç¹</a>
+
+   </div>
+</li>
+<li><div class="con">
+                    <a class="a" href="javascript:void(0);">åä½äº¤æµ</a><i></i> </div>
+<div class="list">
+<a href="http://international.cumt.edu.cn/" target="_blank" }>å½éåä½äº¤æµå¤</a>
+
+<a href="http://global.cumt.edu.cn/International_Higher_Education_Alliance_for_Mining.htm" target="_blank" }>å½éç¿ä¸èç</a>
+
+<a href="http://ecdd.cumt.edu.cn/" target="_blank" }>å¯¹å¤åä½ä¸åå±å¤</a>
+
+<a href="http://dsh.cumt.edu.cn/" target="_blank" }>çäºä¼</a>
+
+<a href="https://cumtxyh.cumt.edu.cn/" target="_blank" }>æ ¡åä¼</a>
+
+<a href="http://edf.cumt.edu.cn/" target="_blank" }>æè²åå±åºéä¼</a>
+
+<a href="http://jypxc.cumt.edu.cn/" target="_blank" }>ç¿å¤§å¹è®­ç½</a>
+
+   </div>
+</li>
+<li><div class="con">
+                    <a class="a" href="javascript:void(0);">äººææè</a><i></i> </div>
+<div class="list">
+<a href="http://hr.cumt.edu.cn" target="_blank" }>äººåèµæºé¨</a>
+
+<a href="https://hr.cumt.edu.cn/info/1024/3228.htm" target="_blank" }>é«å±æ¬¡äººæ</a>
+
+<a href="https://hr.cumt.edu.cn/info/1025/3229.htm" target="_blank" }>ä¸ä»»æå¸</a>
+
+<a href="https://hr.cumt.edu.cn/info/1026/3326.htm" target="_blank" }>åå£«å</a>
+
+   </div>
+</li>
+<li><div class="con">
+                    <a class="a" href="javascript:void(0);">æçå°±ä¸</a><i></i> </div>
+<div class="list">
+<a href="http://zs.cumt.edu.cn/" target="_blank" }>æ¬ç§çæç</a>
+
+<a href="http://yz.cumt.edu.cn/" target="_blank" }>ç ç©¶çæç</a>
+
+<a href="http://sce.cumt.edu.cn" target="_blank" }>ç»§ç»­æè²æç</a>
+
+<a href="http://sac.cumt.edu.cn/" target="_blank" }>åºå½çå­¦</a>
+
+<a href="http://sac.cumt.edu.cn/en/?tdsourcetag=s_pcqq_aiomsg" target="_blank" }>æ¥åçå­¦</a>
+
+<a href="http://www.91job.org.cn/sub-station/home/10290" target="_blank" }>å°±ä¸æå¯¼</a>
+
+   </div>
+</li>
+<li><div class="con">
+                    <a class="a" href="javascript:void(0);">ç¸å³é¾æ¥</a><i></i> </div>
+<div class="list">
+<a href="http://www.cumtb.edu.cn" target="_blank" }>ä¸­å½ç¿ä¸å¤§å­¦ï¼åäº¬ï¼</a>
+
+<a href="http://xhxy.cumt.edu.cn/" target="_blank" }>å¾æµ·å­¦é¢</a>
+
+<a href="http://www.cumtusp.com" target="_blank" }>å½å®¶å¤§å­¦ç§æå­</a>
+
+<a href="http://www.cumtp.com/" target="_blank" }>ç¿å¤§åºçç¤¾</a>
+
+<a href="http://sjy.cumt.edu.cn/" target="_blank" }>ä¸­å½ç¿ä¸å¤§å­¦å·¥ç¨å¨è¯¢ç ç©¶é¢ï¼æ±èï¼æéå¬å¸</a>
+
+<a href="http://www.xzsdyyy.com/" target="_blank" }>ç¿å¤§éå±å»é¢ï¼å¸ä¸é¢ï¼</a>
+
+   </div>
+</li>
+
+
+
+
+
+
+
+</ul>
+
+
+
+
+        <div class="list_box0 flex"><div class="li">
+               <a href="https://global.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99152)" target="_blank">EN</a>
+            </div>
+            
+</div>
+        <div class="list_box0 flex"><div class="li">
+               <a href="index/xxgg.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99157)" target="_blank">ä¿¡æ¯å¬å</a>
+            </div>
+            
+<div class="li">
+               <a href="http://portal.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99168)" target="_blank">èåé¨æ·</a>
+            </div>
+            
+<div class="li">
+               <a href="http://kdoa.cumt.edu.cn/seeyon/caslogin/cumt" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99158)" target="_blank">åååå¬</a>
+            </div>
+            
+<div class="li">
+               <a href="http://xxgk.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99159)" target="_blank">ä¿¡æ¯å¬å¼</a>
+            </div>
+            
+<div class="li">
+               <a href="ldxx.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99160)" target="_blank">é¢å¯¼ä¿¡ç®±</a>
+            </div>
+            
+<div class="li">
+               <a href="http://mail.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99161)" target="_blank">ç¿å¤§é®ç®±</a>
+            </div>
+            
+<div class="li">
+               <a href="https://ssfwrx.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99162)" target="_blank">å¸çç­çº¿</a>
+            </div>
+            
+</div>
+    </nav>
+
+    <div class="search-dialog-box">
+        <div class="search-bg"></div>
+        <div class="search-dialog">
+            <div class="search-inner">
+                <div class="wrap-inner">
+                   <script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode1127278').value;
+        if(keyword==null||keyword==""){
+            alert("è¯·è¾å¥ä½ è¦æ£ç´¢çåå®¹ï¼");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey1127278").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey1127278").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey1127278").value = base64.encode(document.getElementById("lucenenewssearchkey1127278").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode1127278"));
+        return true;
+    } 
+</script>
+<form action="search.jsp?wbtreeid=1001" method="post" id="au10a" name="au10a" onsubmit="return _nl_ys_check()">
+ <input type="hidden" id="lucenenewssearchkey1127278" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype1127278" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope1127278" name="searchScope" value="1">
+     <div class="search f-cb">
+                        <div class="search-input f-cb clearfix">
+                            <input type="text" placeholder="è¯·è¾å¥æç´¢å³é®å­" autocomplete="off" name="showkeycode" id="showkeycode1127278">
+                            <input type="submit" value="">
+                            <a href="javascript:;" class="clear-btn"></a>
+                        </div>
+                    </div>
+</form>
+
+
+
+
+                </div>
+            </div>
+        </div>
+        <a href="javascript:;" class="pub-close">
+            <span class="bg"></span>
+
+            <i></i>
+        </a>
+    </div>
+
+    <!--============================å¤´é¨ ç»æ=============================-->
+
+    <div class="main-visual-wrapper banner">       <div class="main-visual-wrapper banner">
+        <section class="swiper-box1 main-visual-slider ban1">
+            <div class="swiper-container">
+                <div class="swiper-wrapper">
+                                     <div class="swiper-slide main-visual-item">
+                   
+                        
+                         <a class="slide-inner" href="javascript:;" title="">
+                            <div class="visual-img imged wl" style="background: url(images/222.jpg) no-repeat;">
+                                <img src="images/222.jpg" alt="" />
+                            </div>
+                        </a>
+                    
+                    
+                    </div>
+                    <div class="swiper-slide main-visual-item">
+                   
+                        
+                         <a class="slide-inner" href="javascript:;" title="">
+                            <div class="visual-img imged wl" style="background: url(banner/2934c6b5c5ae75fb0b42433ae6fafe5c.JPG) no-repeat;">
+                                <img src="banner/2934c6b5c5ae75fb0b42433ae6fafe5c.JPG" alt="" />
+                            </div>
+                        </a>
+                    
+                    
+                    </div>
+                    <div class="swiper-slide main-visual-item">
+                   
+                        
+                         <a class="slide-inner" href="https://dwxcb.cumt.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1108" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1018020)" target="_blank">
+                            <div class="visual-img imged wl" style="background: url(banner/37f61caa4d96a7671264fffb3602d416.jpeg) no-repeat;">
+                                <img src="banner/37f61caa4d96a7671264fffb3602d416.jpeg" alt="" />
+                            </div>
+                        </a> 
+                    
+                    
+                    </div>
+                    <div class="swiper-slide main-visual-item">
+                   
+                        
+                         <a class="slide-inner" href="javascript:;" title="">
+                            <div class="visual-img imged wl" style="background: url(banner/cf241275c9af1ce3cf7ce071b823143c.jpeg) no-repeat;">
+                                <img src="banner/cf241275c9af1ce3cf7ce071b823143c.jpeg" alt="" />
+                            </div>
+                        </a>
+                    
+                    
+                    </div>
+                    <div class="swiper-slide main-visual-item">
+                   
+                        
+                         <a class="slide-inner" href="javascript:;" title="">
+                            <div class="visual-img imged wl" style="background: url(banner/d9a22aceeb875ca06437bfe161a0cf4c.PNG) no-repeat;">
+                                <img src="banner/d9a22aceeb875ca06437bfe161a0cf4c.PNG" alt="" />
+                            </div>
+                        </a>
+                    
+                    
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+
+    
+            <div class="btn flex">
+            <div class="cir swiper-pagination"></div>
+            <!-- <div class="arror swiper-button-prev"></div> -->
+            <div class="arror swiper-button-next"><img src="images/ban-xq.png" alt=""></div>
+            
+        </div>
+     
+            </div>
+            
+             <div class="shub">
+               <img src="images/bb.png" alt="">
+            </div>  </div>
+    
+    
+     </section>
+    <!--============================ä¸»ä½ å¼å§=============================-->
+       <section class="body_b">
+        <div class="scroll">
+        
+        
+        
+        
+                  <div class="home1 wl">
+                <div class="wp">
+                    <div class="home1-t flex">
+                        <div class="left">
+                            <div class="title flex">
+                                <div class="h3 flex">
+                                    <div class="img"><img src="images/tit1.png" alt=""></div>
+                                    <h3>
+                                        <span>èµè®¯ç¿å¤§</span>
+                                        <p>CUMT News</p>
+                                    </h3>
+                                </div>
+                            </div>
+                              <script language="javascript" src="/system/resource/js/ajax.js"></script><ul>
+                                <div class="h1-t">
+                                    <a href="http://news.cumt.edu.cn/info/1002/72259.htm" target="_blank">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(/__local/B/26/1C/2CF62FBF22189728591A860E66E_928CC90E_E73B1.png) no-repeat;">
+                                            </div>
+                                        </div>
+                                        <div class="con">
+                                            <h3 class="l1 txt1">ææ ¡ä¸ç´«éç¿ä¸éå¢ç­¾ç½²âç´«éæºæ§ç­âèåå¹å»åè®®</h3>
+                                        </div>
+                                    </a>
+                                </div>
+
+<li>
+                                    <a href="http://news.cumt.edu.cn/info/1002/72255.htm" class="wl" target="_blank">
+                                        <h3 class="l2 txt1">æ ¡é¢å¯¼å¸¦éèµ´ä¸­å½ç¤ç¿æå·¥å¢èµ°è®¿è°ç </h3>
+                                        <span>2025/06/04</span>
+                                    </a>
+                                </li>
+
+<li>
+                                    <a href="http://news.cumt.edu.cn/info/1002/72264.htm" class="wl" target="_blank">
+                                        <h3 class="l2 txt1">æ ¡åå§ä¹¦è®°åæ³¢é¢å2025å±æ¯ä¸çååè®²ä¸é¢åè¯¾</h3>
+                                        <span>2025/06/06</span>
+                                    </a>
+                                </li>
+
+<li>
+                                    <a href="http://news.cumt.edu.cn/info/1002/72245.htm" class="wl" target="_blank">
+                                        <h3 class="l2 txt1">ææ ¡ä¸¾åé±ä¸èå¤§è®²å ï¼ç¬¬åæï¼æ¨åéå·¥ç¨å»é¢æ·±é¨å°ä¸å·¥ç¨åé¢æ­çä»ªå¼</h3>
+                                        <span>2025/06/03</span>
+                                    </a>
+                                </li>
+
+<li>
+                                    <a href="http://news.cumt.edu.cn/info/1002/72244.htm" class="wl" target="_blank">
+                                        <h3 class="l2 txt1">ææ ¡ä¸¾è¡91çº§æ ¡åæ¯ä¸30å¹´çºªå¿µå¤§ä¼</h3>
+                                        <span>2025/06/03</span>
+                                    </a>
+                                </li>
+</ul><script>_showDynClickBatch(['dynclicks_u12_69299','dynclicks_u12_69295','dynclicks_u12_69308','dynclicks_u12_69291','dynclicks_u12_69290'],[69299,69295,69308,69291,69290],"wbnews", 1565984872)</script>
+
+                                
+                                <div class="more">
+                                    <a href="http://news.cumt.edu.cn/sdxw.htm" class="flex" target="_blank">
+                                        æ¥çæ´å¤
+                                        <img src="images/more.png" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="mid wl">
+                            <div class="title flex">
+                                <div class="h3"><h3 class="wl"><span>è¦é»ç¿å¤§</span>
+                                <p>CUMT Headlines</p>
+                                </h3></div>
+
+                            </div>
+                            <div class="swiper-container">
+<div class="swiper-wrapper">
+
+
+
+                                    <div class="swiper-slide">
+                                        <a href="http://news.cumt.edu.cn/info/1002/72264.htm" target="_blank">
+                                            <div class="scale">
+                                                <div class="imged" style="background: url(/__local/8/61/60/3909538F7E143266CC991FF47E0_4DE4868B_1D6F2C.jpg) no-repeat;">
+                                                </div>
+                                            </div>
+                                            <div class="con wl">
+                                                <div class="date">
+                                                    <span>06</span>
+                                                    <p>2025.06</p>
+                                                </div>
+                                                <h3 class="l1 txt1">æ ¡åå§ä¹¦è®°åæ³¢é¢å2025å±æ¯ä¸çååè®²ä¸é¢åè¯¾</h3>
+                                                <h4 class="l4 p1">å¨å¨åä¸ä¸å¼å±æ·±å¥è´¯å½»ä¸­å¤®å«é¡¹è§å®ç²¾ç¥å­¦ä¹ æè²ä¹éï¼2025å¹´6æ6æ¥ä¸åï¼ä¸­å½ç¿ä¸å¤§å­¦åå§ä¹¦è®°åæ³¢é¢å2025å±æ¯ä¸çååè®²ä¸é¢åè¯¾ãæ ¡åå§å¯ä¹¦è®°ææ±æ¶ï¼ç¸å³é¨é¨è´è´£åå¿ï¼ä»¥ååå­¦é¢åå§å¯ä¹¦è®°ãæ¯ä¸ç­è¾å¯¼åãæ¯ä¸çåååå åè¯¾ãæ­¤æ¬¡åè¯¾çé¢ç®æ¯ãä¿®ç¼å±äº§åäººçâå¿å­¦âï¼ä»¥å¥½ä½é£æå°±å¥½æªæ¥ããåæ³¢éç¹å´ç»å±äº§åäººâå¿å­¦âçé»è¾èç»ãä¸»è¦åå®¹åæ¹æ³å®è·µä¸...
+                                                </h4>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    
+                                    
+                               
+
+
+
+
+                                    <div class="swiper-slide">
+                                        <a href="http://news.cumt.edu.cn/info/1002/72244.htm" target="_blank">
+                                            <div class="scale">
+                                                <div class="imged" style="background: url(/__local/2/FF/AC/9564B3021B6B683F983BD6F114E_DE26B5C4_129CF6.png) no-repeat;">
+                                                </div>
+                                            </div>
+                                            <div class="con wl">
+                                                <div class="date">
+                                                    <span>03</span>
+                                                    <p>2025.06</p>
+                                                </div>
+                                                <h3 class="l1 txt1">ææ ¡ä¸¾è¡91çº§æ ¡åæ¯ä¸30å¹´çºªå¿µå¤§ä¼</h3>
+                                                <h4 class="l4 p1">6æ1æ¥ä¸åï¼ææ ¡91çº§æ ¡åæ¯ä¸30å¹´çºªå¿µå¤§ä¼å¨åæ¹æ ¡åºæå¾·ç¤¼å ä¸¾è¡ãæ ¡åå§ä¹¦è®°åæ³¢ï¼å¯æ ¡é¿ãæ ¡åæ»ä¼å¸¸å¡å¯ä¼é¿æå¼ºï¼æ ¡åå§å¯ä¹¦è®°è¡ä¸åï¼å¯æ ¡é¿åæ­£å¯ï¼æ ¡åå§å¯ä¹¦è®°ææ±æ¶ï¼å¯æ ¡é¿é»åå©åºå¸­å¤§ä¼ã500ä½å91çº§æ ¡ååäº²å±åå äºå¤§ä¼ãå¤§ä¼ç±å¯æ ¡é¿ãåç¿æºç³»æºå¶91çº§çå¿ å®¾ä¸»æãâåæ³¢ä»£è¡¨èµµæ ¡é¿åå¨æ ¡å¸çï¼åèä¸´å¤§ä¼çåä½æ ¡åè¡¨ç¤ºç­çæ¬¢è¿ï¼å¹¶åå ææªè½...
+                                                </h4>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    
+                                    
+                               
+
+
+
+
+                                    <div class="swiper-slide">
+                                        <a href="http://news.cumt.edu.cn/info/1002/72238.htm" target="_blank">
+                                            <div class="scale">
+                                                <div class="imged" style="background: url(/__local/5/C1/3E/400C2BE3430867AA90BB335A501_3701FB47_118F4C.jpg) no-repeat;">
+                                                </div>
+                                            </div>
+                                            <div class="con wl">
+                                                <div class="date">
+                                                    <span>01</span>
+                                                    <p>2025.06</p>
+                                                </div>
+                                                <h3 class="l1 txt1">ææ ¡ä¸¾è¡åºç¥ä¸­å½ç¿ä¸å¤§å­¦å»ºæ ¡116å¨å¹´âå¼¦æ­å¨å¹âäº¤åé³ä¹ä¼</h3>
+                                                <h4 class="l4 p1">5æ31æ¥æï¼âå¼¦æ­å¨å¹âä¸­å½ç¿ä¸å¤§å­¦116å¨å¹´æ ¡åºäº¤åä¹å¢é³ä¹ä¼å¨ä¸­å½ç¿ä¸å¤§å­¦åæ¹æ ¡åºæå¾·ç¤¼å ä¸¾è¡ãæ ¡åå§ä¹¦è®°åæ³¢ï¼åå§å¯ä¹¦è®°è¡ä¸åï¼åæ¿åå¬å®¤ãåå§ç»ç»é¨ãåå§å®£ä¼ é¨ãä¸­å½ç¿ä¸å¤§å­¦ç¾è²ä¸­å¿ãäººæä¸èºæ¯å­¦é¢æå³è´è´£åå¿åæ ¡åä»£è¡¨ãåå­¦é¢å¸çä»£è¡¨1000ä½äººå±ååå ï¼å±äº«è¿åºéæ¼äººå¿çé³ä¹çå®´ãè¡¨æ¼å¨ç»å¸æ²ç®ãæçç¥å½ãä¸­å¯å¹ï¼æ¿æçæå¾ç¹çå¨åºè§ä¼ï¼å¯¹ç¥...
+                                                </h4>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    
+                                    
+                               
+
+ </div>
+<div class="swiper-pagination cir"></div>
+ </div>
+<script>_showDynClickBatch(['dynclicks_u13_69308','dynclicks_u13_69290','dynclicks_u13_69279'],[69308,69290,69279],"wbnews", 1565984872)</script>
+
+                        </div>
+                        
+                    
+                        <div class="right">
+                            <div class="title flex">
+                                <div class="h3 flex">
+                                    <div class="img"><img src="images/tit2.png" alt=""></div>
+                                    <h3>
+                                        <span>åªä½ç¿å¤§</span>
+                                        <p><b>cumt</b><i>media</i></p>
+                                    </h3>
+                                </div>
+                             </div>
+                             <div><ul>
+                                <div class="h1-t">
+                                    <a href="http://news.cumt.edu.cn/info/1007/72262.htm" target="_blank">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(/__local/1/66/2E/E286A96491C16571E72D8756BE0_6A41243B_E7A9B.jpg) no-repeat;">
+                                            </div>
+                                        </div>
+                                        <div class="con">
+                                            <h3 class="l1 txt1">ç¿äºæ·±å¤åµãç¥ç³ã</h3>
+                                        </div>
+                                    </a>
+                                </div>
+
+<li>
+                                    <a href="http://news.cumt.edu.cn/info/1007/72237.htm" class="wl" target="_blank">
+                                        <h3 class="l2 txt1">æ¾åå®ä½ï¼ç¹è²åå± æåè¡ä¸é«æ ¡æ¯æåè´¡ç®å</h3>
+                                        <span>ãåææ¥æ¥ã2025/06/01</span>
+                                    </a>
+                                </li>
+
+<li>
+                                    <a href="http://news.cumt.edu.cn/info/1007/72235.htm" class="wl" target="_blank">
+                                        <h3 class="l2 txt1">ç¿å¤§ç¾åå­è½½ å°å¨æ¹å¯¸é´</h3>
+                                        <span>ãä¸­å½æ±èç½ã2025/05/31</span>
+                                    </a>
+                                </li>
+
+<li>
+                                    <a href="http://news.cumt.edu.cn/info/1007/72233.htm" class="wl" target="_blank">
+                                        <h3 class="l2 txt1">âå°é£å âæ¬å¨âå¤§è²äººâ</h3>
+                                        <span>ãåæç½ã2025/05/31</span>
+                                    </a>
+                                </li>
+
+<li>
+                                    <a href="http://news.cumt.edu.cn/info/1007/72229.htm" class="wl" target="_blank">
+                                        <h3 class="l2 txt1">ææé¢é¢âä¸æ¶âï¼é çæ¯ä»ä¹ï¼</h3>
+                                        <span>ãå¾å·æ¥æ¥ã2025/05/30</span>
+                                    </a>
+                                </li>
+</ul><script>_showDynClickBatch(['dynclicks_u14_69305','dynclicks_u14_69278','dynclicks_u14_69277','dynclicks_u14_69275','dynclicks_u14_69270'],[69305,69278,69277,69275,69270],"wbnews", 1565984872)</script>
+</div>
+                                
+                                <div class="more">
+                                         <a href="http://news.cumt.edu.cn/mtkd.htm" class="flex" target="_blank">
+                                        æ¥çæ´å¤
+                                        <img src="images/more.png" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                         </div>   
+                            
+
+                       
+                        
+                        
+                   <div class="home1-b"><ul class="flex">
+                            
+<li>
+                                <a href="index/xxgg.htm" class="flex" target="_blank">
+                                    <span>
+                                        <img src="images/h1-i1.png" alt="" class="img1">
+                                        <img src="images/h1-i1-1.png" alt="" class="img2">
+                                    </span>
+                                    <h3>ä¿¡æ¯å¬å</h3>
+                                </a>
+                            </li>
+                            
+<li>
+                                <a href="http://portal.cumt.edu.cn/" class="flex" target="_blank">
+                                    <span>
+                                        <img src="images/h1-i2.png" alt="" class="img1">
+                                        <img src="images/h1-i2-1.png" alt="" class="img2">
+                                    </span>
+                                    <h3>èåé¨æ·</h3>
+                                </a>
+                            </li>
+                            
+<li>
+                                <a href="http://kdoa.cumt.edu.cn/seeyon/caslogin/cumt" class="flex" target="_blank">
+                                    <span>
+                                        <img src="images/h1-i3.png" alt="" class="img1">
+                                        <img src="images/h1-i3-1.png" alt="" class="img2">
+                                    </span>
+                                    <h3>åååå¬</h3>
+                                </a>
+                            </li>
+                            
+</ul></div>
+                </div>
+            </div>
+         </div>
+        
+        
+     
+    
+    
+    
+    <!-- home2 -->
+    <div class="home2 wl">
+        <div class="wp">
+            <div class="title flex">
+                <div class="h3 flex">
+                    <div class="img"><img src="images/tit3.png" alt=""></div>
+                    <h3>
+                        <span>å­¦æ¯ç¿å¤§</span>
+                       <p><b>cumt</b><i>academic</i></p>
+                    </h3>
+                </div>
+            </div>
+            <div class="home2-t flex aos" data-aos="fade-up">
+                <div class="left">
+                    <div class="tit">å­¦æ¯æ¥å</div>
+                    <ul class="h2-li">
+<li>
+                            <a href="info/1126/69298.htm" target="_blank" title="ä»è§å°ºåº¦å¨è½ææçåå¶ä¸åºç¨">
+                                <div class="scale">
+                                
+                                    
+                                                <div class="imged wl" style="background: url(images/sp.jpg) no-repeat;">
+                                    </div>
+                                </div>
+                                <div class="con">
+                                    <h3 class="l2 txt1">ä»è§å°ºåº¦å¨è½ææçåå¶ä¸åºç¨</h3>
+                                    
+
+     <h4 class="flex"><span><img src="images/h2-tim.png" alt=""></span>
+                                        <p class="l1">2025å¹´6æ5æ¥16:20</p>
+                                    </h4>
+                                    <h4 class="flex"><span><img src="images/h2-per.png" alt=""></span>
+                                        <p class="l1">çèæ ææ</p>
+                                    </h4>
+                                    <h4 class="flex"><span><img src="images/h2-adr.png" alt=""></span>
+                                        <p class="l1">æææ¥¼A501</p>
+                                    </h4>
+                                    
+
+</div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="info/1126/69297.htm" target="_blank" title="åçº§é¶ç°çæç­ä¸æ¼åæºå¶">
+                                <div class="con">
+                                    <h3 class="l2 txt1">åçº§é¶ç°çæç­ä¸æ¼åæºå¶</h3>
+                               <h4 class="flex"><span><img src="images/h2-tim.png" alt=""></span>
+                                        <p class="l1">2025å¹´6æ5æ¥15:40</p>
+                                    </h4>
+                                    <h4 class="flex"><span><img src="images/h2-per.png" alt=""></span>
+                                        <p class="l1">å­é   ææ</p>
+                                    </h4>
+                                    <h4 class="flex"><span><img src="images/h2-adr.png" alt=""></span>
+                                        <p class="l1">æææ¥¼A501</p>
+                                    </h4>
+                                </div>
+                            </a>
+                        </li>
+                        
+<script>_showDynClickBatch(['dynclicks_u16_69298','dynclicks_u16_69297'],[69298,69297],"wbnews", 1565984872)</script>
+</ul>
+                    <div class="more">
+                        <a href="xskd/xsbg1.htm" class="flex" target="_blank">
+                            æ¥çæ´å¤
+                            <img src="images/more2.png" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="mid">
+                    <div class="tit">äººæè®²å </div>
+                    <ul class="h2-li">
+<li>
+                            <a href="info/1127/69288.htm" target="_blank" title="ãéæ¹å¤§è®²å ãï¼2025-8 æ» ç¬¬388æï¼ââå­¦ä»¥æäººï¼ãè®ºè¯­ãä¸­çäººçæºæ§">
+                                <div class="scale">
+                                   <div class="imged wl" style="background: url(/__local/B/7F/75/5849228647FDBD2331049D60EC6_046D0951_E581C5.jpg) no-repeat;">
+                                    </div>
+                                 
+                                </div>
+                                <div class="con">
+                                    <h3 class="l2 txt1">ãéæ¹å¤§è®²å ãï¼2025-8 æ» ç¬¬388æï¼ââå­¦ä»¥æäººï¼ãè®ºè¯­ãä¸­çäººçæºæ§</h3>
+                                    
+
+     <h4 class="flex"><span><img src="images/h2-tim.png" alt=""></span>
+                                        <p class="l1">2025å¹´6æ4æ¥ 14:30</p>
+                                    </h4>
+                                    <h4 class="flex"><span><img src="images/h2-per.png" alt=""></span>
+                                        <p class="l1">éå«æ ææ</p>
+                                    </h4>
+                                    <h4 class="flex"><span><img src="images/h2-adr.png" alt=""></span>
+                                        <p class="l1">éæ¹å¤§è®²å </p>
+                                    </h4>
+                                    
+
+</div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="info/1127/69284.htm" target="_blank" title="ãäººæå¤§è®²å ãï¼2025-4ï¼âââæ¡£æ¡æåä¸æ°æ¶ä»£é«ç­æè²é«è´¨éåå±âââç¬¬äºå±å¨å¾é«æ ¡æ¡£æ¡æåå­¦æ¯è®ºå">
+                                <div class="con">
+                                    <h3 class="l2 txt1">ãäººæå¤§è®²å ãï¼2025-4ï¼âââæ¡£æ¡æåä¸æ°æ¶ä»£é«ç­æè²é«è´¨éåå±âââç¬¬äºå±å¨å¾é«æ ¡æ¡£æ¡æåå­¦æ¯è®ºå</h3>
+                               <h4 class="flex"><span><img src="images/h2-tim.png" alt=""></span>
+                                        <p class="l1">2025å¹´6æ9æ¥ 14:30</p>
+                                    </h4>
+                                    <h4 class="flex"><span><img src="images/h2-per.png" alt=""></span>
+                                        <p class="l1">å®å£«å¢  åäº¬çå·¥å¤§å­¦æ¡£æ¡é¦é¦é¿ãææ</p>
+                                    </h4>
+                                    <h4 class="flex"><span><img src="images/h2-adr.png" alt=""></span>
+                                        <p class="l1">å5-A407</p>
+                                    </h4>
+                                </div>
+                            </a>
+                        </li>
+                        
+<script>_showDynClickBatch(['dynclicks_u17_69288','dynclicks_u17_69284'],[69288,69284],"wbnews", 1565984872)</script>
+</ul>
+                    <div class="more">
+                        <a href="xskd/rwjt1.htm" class="flex" target="_blank">
+                            æ¥çæ´å¤
+                            <img src="images/more2.png" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="right">
+                    <div class="tit">å­¦æ¯èç¦ </div>
+                    <ul>
+<li>
+                            <div class="h2-t1">
+                                <a href="http://news.cumt.edu.cn/info/1005/72199.htm" target="_blank" title="ãåææ¥æ¥ãååææ ¡æå¸çè®ºæç« ">
+                                    <h3 class="l2 txt1">ãåææ¥æ¥ãååææ ¡æå¸çè®ºæç« </h3>
+                                    <h4 class="l3 p1">5æ23æ¥ï¼ãåææ¥æ¥ãç¬¬06çâå­¦ä¹ è´¯å½»ä¹ è¿å¹³æ°æ¶ä»£ä¸­å½ç¹è²ç¤¾ä¼ä¸»ä¹ææ³âä¸åååäºæ±èçä¹ è¿å¹³æ°æ¶ä»£ä¸­å½ç¹è²ç¤¾ä¼ä¸»ä¹ææ³ç ç©¶ä¸­å¿ä¸­å½ç¿ä¸å¤§å­¦åºå°å¯ä¸»ä»»ãææ ¡é©¬åæä¸»ä¹å­¦é¢ææäºåé¢ä¸ºãå å¿«å®åå½å®¶åæ°ä½ç³»ãççè®ºæç« ãæç« æåºï¼å½åï¼ä¸çç¾å¹´æªæä¹å¤§åå±å éæ¼è¿ï¼ç§æé©å½ä¸å¤§å½åå¼ç¸äºäº¤ç»ï¼é«ææ¯é¢åæä¸ºå½éç«äºæåæ²¿åä¸»æåºï¼æ·±å»éå¡å¨çç§©åºååå±æ ¼å±ã4æ30æ¥ï¼ä¹ è¿å¹³æ»ä¹¦è®°å¨ä¸æµ·ä¸»æå¬å¼é¨å...
+                                    </h4>
+                                </a>
+                            </div>
+                        </li>
+                        
+<li>
+                            <div class="h2-t2">
+                                <a href="http://news.cumt.edu.cn/info/1005/72164.htm" target="_blank" title="ææ ¡æ¿æçå½å®¶éç¹ç åè®¡åéå¹´ç§å­¦å®¶é¡¹ç®âæ¥å¾æç¹åç¤å±åå¡«å¼éååææ¯âå¯å¨æ¨å®æ½æ¹æ¡è®ºè¯ä¼å¬å¼" class="wl">
+                                    <h3 class="l2 txt1">ææ ¡æ¿æçå½å®¶éç¹ç åè®¡åéå¹´ç§å­¦å®¶é¡¹ç®âæ¥å¾æç¹åç¤å±åå¡«å¼éååææ¯âå¯å¨æ¨å®æ½æ¹æ¡è®ºè¯ä¼å¬å¼</h3>
+                                </a>
+                            </div>
+                        </li>
+                        
+                        
+                        
+                        
+<li>
+                            <div class="h2-t2">
+                                <a href="http://news.cumt.edu.cn/info/1005/72159.htm" target="_blank" title="ææ ¡å®å¨å·¥ç¨å­¦é¢æå¸å¢éé¡¹ç®è£è·æ¥åç¦å½éåæå±éå¥" class="wl">
+                                    <h3 class="l2 txt1">ææ ¡å®å¨å·¥ç¨å­¦é¢æå¸å¢éé¡¹ç®è£è·æ¥åç¦å½éåæå±éå¥</h3>
+                                </a>
+                            </div>
+                        </li>
+                        
+                        
+                        
+                        
+<li>
+                            <div class="h2-t2">
+                                <a href="http://news.cumt.edu.cn/info/1005/72130.htm" target="_blank" title="ææ ¡æå¸å¢éç§ç ææå¥éæ±èçé«æ ¡ï¼âååäºâæé´ï¼æ°è½æºåæ°è½æºæ±½è½¦ç§æææåå¤§è¿å±" class="wl">
+                                    <h3 class="l2 txt1">ææ ¡æå¸å¢éç§ç ææå¥éæ±èçé«æ ¡ï¼âååäºâæé´ï¼æ°è½æºåæ°è½æºæ±½è½¦ç§æææåå¤§è¿å±</h3>
+                                </a>
+                            </div>
+                        </li>
+                        
+                        
+                        
+                        
+<li>
+                            <div class="h2-t2">
+                                <a href="http://news.cumt.edu.cn/info/1005/72021.htm" target="_blank" title="ææ ¡å»ºç­ä¸è®¾è®¡å­¦é¢æå¸ä¸»åè®¾è®¡é¡¹ç®è£è·2024ä¸çå»ºç­æ°é»ç½å¤§å¥" class="wl">
+                                    <h3 class="l2 txt1">ææ ¡å»ºç­ä¸è®¾è®¡å­¦é¢æå¸ä¸»åè®¾è®¡é¡¹ç®è£è·2024ä¸çå»ºç­æ°é»ç½å¤§å¥</h3>
+                                </a>
+                            </div>
+                        </li>
+                        
+                        
+                        
+                        
+
+
+<script>_showDynClickBatch(['dynclicks_u18_69236','dynclicks_u18_69193','dynclicks_u18_69189','dynclicks_u18_69117','dynclicks_u18_68967'],[69236,69193,69189,69117,68967],"wbnews", 1565984872)</script>
+</ul>
+                    <div class="more">
+                        <a href="http://news.cumt.edu.cn/xsjj.htm" class="flex" target="_blank">
+                            æ¥çæ´å¤
+                            <img src="images/more.png" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- home3 -->
+   <div class="home3 wl">
+        <div class="wp">
+            <div class="title flex">
+                <div class="h3 flex">
+                    <div class="img"><img src="images/tit4.png" alt=""></div>
+                    <h3>
+                        <span>æ´»åç¿å¤§</span>
+                       <p><b>cumt</b><i>vitality</i></p>
+                    </h3>
+                </div>
+            </div>
+            <div class="home3-t flex aos" data-aos="fade-up">
+                <div class="left flex">
+                    <div class="con">
+                        <div class="tit">
+                            <h3 class="flex"><img src="images/h3-i1.png" alt="">å½éäº¤æµ</h3>
+                            <div class="more">
+                            <a href="https://global.cumt.edu.cn/" class="flex" target="_blank">
+                                æ´å¤
+                                <img src="images/more2.png" alt="">
+                            </a>
+                            </div>
+                        </div>
+                        <div class="swiper-container"><ul class="swiper-wrapper">
+                                
+<li class="swiper-slide">
+                                    <a href="https://global.cumt.edu.cn/info/1002/2141.htm" target="_blank" title="æ ¡é¢å¯¼çå¢è®¿é®è¶åãæ³°å½å¹¶æç«æ³°å½æ ¡åä¼" class="wl">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(/__local/6/1A/F9/015A2C63A1599F5CA2743F742DA_69651627_4A371.jpg) no-repeat;">
+                                                <img src="/__local/6/1A/F9/015A2C63A1599F5CA2743F742DA_69651627_4A371.jpg" alt="">
+                                            </div>
+                                        </div>
+                                          
+                                            <h3 class="l2 txt1" style="padding-top:0.2rem;font-size:0.16rem;color:#ffffff;line-height: 0.3rem;">
+                                               æ ¡é¢å¯¼çå¢è®¿é®è¶åãæ³°å½å¹¶æç«æ³°å½æ ¡åä¼
+                                            </h3>
+                                   
+                                    </a>
+                                </li>
+                                
+<li class="swiper-slide">
+                                    <a href="https://global.cumt.edu.cn/info/1002/2140.htm" target="_blank" title="æ ¡é¿èµµå®ä¼ä¸æ³å½EPFå·¥ç¨å¸å­¦é¢æ ¡é¿åé©¬çº½åå°Â·æå¤«æ´æ¯ä¸¾è¡çº¿ä¸å·¥ä½ä¼è°" class="wl">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(/__local/1/13/36/B570493613FE0C24D076F3EF6D6_140F43CC_EDABD.png) no-repeat;">
+                                                <img src="/__local/1/13/36/B570493613FE0C24D076F3EF6D6_140F43CC_EDABD.png" alt="">
+                                            </div>
+                                        </div>
+                                          
+                                            <h3 class="l2 txt1" style="padding-top:0.2rem;font-size:0.16rem;color:#ffffff;line-height: 0.3rem;">
+                                               æ ¡é¿èµµå®ä¼ä¸æ³å½EPFå·¥ç¨å¸å­¦é¢æ ¡é¿åé©¬çº½åå°Â·æå¤«æ´æ¯ä¸¾è¡çº¿ä¸å·¥ä½ä¼è°
+                                            </h3>
+                                   
+                                    </a>
+                                </li>
+                                
+<li class="swiper-slide">
+                                    <a href="https://global.cumt.edu.cn/info/1002/2139.htm" target="_blank" title="ä¹å¹å«åæ¯å¦å¡ä»å¹²å½ç«ææ¯å¤§å­¦ä»£è¡¨å¢æ¥æ ¡è®¿é®" class="wl">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(/__local/2/0F/74/F318650820334C0CBFEB821895C_24E1D0BC_BCD14.jpg) no-repeat;">
+                                                <img src="/__local/2/0F/74/F318650820334C0CBFEB821895C_24E1D0BC_BCD14.jpg" alt="">
+                                            </div>
+                                        </div>
+                                          
+                                            <h3 class="l2 txt1" style="padding-top:0.2rem;font-size:0.16rem;color:#ffffff;line-height: 0.3rem;">
+                                               ä¹å¹å«åæ¯å¦å¡ä»å¹²å½ç«ææ¯å¤§å­¦ä»£è¡¨å¢æ¥æ ¡è®¿é®
+                                            </h3>
+                                   
+                                    </a>
+                                </li>
+                                
+</ul>
+                            <div class="arror swiper-button-prev"></div>
+                            <div class="arror swiper-button-next"></div>
+                            
+                            
+<script>_showDynClickBatch(['dynclicks_u19_69289','dynclicks_u19_69283','dynclicks_u19_69221'],[69289,69283,69221],"wbnews", 1565984872)</script>
+</div>
+             
+                    </div> 
+                    
+                    <div class="h3-t2">
+                        <div class="tit">
+                            <h3 class="flex"><img src="images/h3-i3.png" alt="">æ ¡å­å¿«è®¯</h3>
+                            <div class="more">
+                            <a href="http://news.cumt.edu.cn/xykx.htm" class="flex" target="_blank">
+                                æ´å¤
+                                <img src="images/more2.png" alt="">
+                            </a>
+                            </div>
+                        </div>
+                        <ul><li>
+                                <a href="http://news.cumt.edu.cn/info/1003/72256.htm" target="_blank" title="ææ ¡ä¸¾è¡åºç¥ä¸­å½ç¿ä¸å¤§å­¦å»ºæ ¡116å¨å¹´æ ¡åä¹ç¾½åè°èµ" class="wl">
+                                    <h3 class="l2 txt1">ææ ¡ä¸¾è¡åºç¥ä¸­å½ç¿ä¸å¤§å­¦å»ºæ ¡116å¨å¹´æ ¡åä¹ç¾½åè°èµ</h3>
+                                </a>
+                            </li>
+                            
+<li>
+                                <a href="http://news.cumt.edu.cn/info/1003/72253.htm" target="_blank" title="å­è¶å´å­¦é¢ä¸¾åâåèæºæ§ èªç«ç¸æ¿ å±è²æªæ¥è±æâæ ¡ååº§è°ä¼" class="wl">
+                                    <h3 class="l2 txt1">å­è¶å´å­¦é¢ä¸¾åâåèæºæ§ èªç«ç¸æ¿ å±è²æªæ¥è±æâæ ¡ååº§è°ä¼</h3>
+                                </a>
+                            </li>
+                            
+<li>
+                                <a href="http://news.cumt.edu.cn/info/1003/72250.htm" target="_blank" title="ææ ¡ååè¯å§ãåå£°ãå¥é2025å¹´å¨å½âç§å­¦å®¶æäºèå°å§æ¨å¹¿è¡å¨âå§ç®" class="wl">
+                                    <h3 class="l2 txt1">ææ ¡ååè¯å§ãåå£°ãå¥é2025å¹´å¨å½âç§å­¦å®¶æäºèå°å§æ¨å¹¿è¡å¨âå§ç®</h3>
+                                </a>
+                            </li>
+                            
+<script>_showDynClickBatch(['dynclicks_u20_69296','dynclicks_u20_69303','dynclicks_u20_69301'],[69296,69303,69301],"wbnews", 1565984872)</script>
+</ul>
+                    </div>
+                    
+                    
+                    
+                       
+                </div>
+                <div class="right flex">
+                    <div class="h3-t1">
+                        <div class="tit">
+                            <h3 class="flex"><img src="images/h3-i2.png" alt="">å¥è¿ä¹æ­</h3>
+                             <div class="more">
+                            <a href="http://news.cumt.edu.cn/fjzg.htm" class="flex" target="_blank">
+                                æ´å¤
+                                <img src="images/more2.png" alt="">
+                            </a>
+                            </div>
+                        </div>
+                                
+                        <div class="swiper-container"><ul class="swiper-wrapper">
+                                
+<li class="swiper-slide">
+                                    <a href="http://news.cumt.edu.cn/info/1006/72160.htm" target="_blank" title="ãå¼æ¬æè²å®¶ç²¾ç¥ äºåæ°æ¶ä»£å¥½èå¸ãè¯å¸é¢èªæ±ç¹è²èåè²äººæ¾ææââè®°ææ ¡âä¼ç§ç ç©¶çå¯¼å¸å¢éâãå®å¨å·¥ç¨å­¦é¢èä¸å¥åº·ç ç©¶å¯¼å¸å¢é" class="wl">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(/__local/0/F9/72/F8912E8D547E1BA72D3AAEF7867_FE60DD86_3766D.jpg) no-repeat;">
+                                                <img src="/__local/0/F9/72/F8912E8D547E1BA72D3AAEF7867_FE60DD86_3766D.jpg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="con">
+                                            <h3 class="l2 txt1">
+                                               ãå¼æ¬æè²å®¶ç²¾ç¥ äºåæ°æ¶ä»£å¥½èå¸ãè¯å¸é¢èªæ±ç¹è²èåè²äººæ¾ææââè®°ææ ¡âä¼ç§ç ç©¶çå¯¼å¸å¢éâãå®å¨å·¥ç¨å­¦é¢èä¸å¥åº·ç ç©¶å¯¼å¸å¢é
+                                            </h3>
+                                        </div>
+                                    </a>
+                                </li>
+                                
+<li class="swiper-slide">
+                                    <a href="http://news.cumt.edu.cn/info/1006/72026.htm" target="_blank" title="ãå¼æ¬æè²å®¶ç²¾ç¥ äºåæ°æ¶ä»£å¥½èå¸ãåå­¦ççå¼è·¯äººä¸åè¡èââè®°ææ ¡âä¼ç§ç ç©¶çå¯¼å¸âãåå­¦ä¸åæ¨å·¥ç¨å­¦é¢ææå°¹ä¸å¹³" class="wl">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(/__local/B/59/42/8796AAF1CB5A59D2CC6D0C12A04_3E1DE2A4_8133.jpg) no-repeat;">
+                                                <img src="/__local/B/59/42/8796AAF1CB5A59D2CC6D0C12A04_3E1DE2A4_8133.jpg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="con">
+                                            <h3 class="l2 txt1">
+                                               ãå¼æ¬æè²å®¶ç²¾ç¥ äºåæ°æ¶ä»£å¥½èå¸ãåå­¦ççå¼è·¯äººä¸åè¡èââè®°ææ ¡âä¼ç§ç ç©¶çå¯¼å¸âãåå­¦ä¸åæ¨å·¥ç¨å­¦é¢ææå°¹ä¸å¹³
+                                            </h3>
+                                        </div>
+                                    </a>
+                                </li>
+                                
+<li class="swiper-slide">
+                                    <a href="http://news.cumt.edu.cn/info/1006/71923.htm" target="_blank" title="ãå¼æ¬æè²å®¶ç²¾ç¥ äºåæ°æ¶ä»£å¥½èå¸ãç ¥å¿ç æï¼ç¬è¡è´è¿ââè®°ææ ¡ä¼ç§ç ç©¶çå¯¼å¸ãåå·¥å­¦é¢ææèµµäºé¹" class="wl">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(/__local/1/77/1D/D3B7A38936955457A300F27BE5A_67A24233_5643E.jpg) no-repeat;">
+                                                <img src="/__local/1/77/1D/D3B7A38936955457A300F27BE5A_67A24233_5643E.jpg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="con">
+                                            <h3 class="l2 txt1">
+                                               ãå¼æ¬æè²å®¶ç²¾ç¥ äºåæ°æ¶ä»£å¥½èå¸ãç ¥å¿ç æï¼ç¬è¡è´è¿ââè®°ææ ¡ä¼ç§ç ç©¶çå¯¼å¸ãåå·¥å­¦é¢ææèµµäºé¹
+                                            </h3>
+                                        </div>
+                                    </a>
+                                </li>
+                                
+</ul>
+                            <div class="arror swiper-button-prev"></div>
+                            <div class="arror swiper-button-next"></div><script>_showDynClickBatch(['dynclicks_u21_69188','dynclicks_u21_68973','dynclicks_u21_68850'],[69188,68973,68850],"wbnews", 1565984872)</script>
+</div>
+                    </div>
+                    <div class="h3-t2 h3-t4">
+                        <div class="tit">
+                            <h3 class="flex"><img src="images/h3-i4.png" alt="">ä¿¡æ¯å¬å</h3>
+                            <div class="more">
+                            <a href="index/xxgg.htm" class="flex" target="_blank">
+                                æ´å¤
+                                <img src="images/more2.png" alt="">
+                            </a>
+                            </div>
+                        </div>
+                        <ul><li>
+                                <a href="https://jw.cumt.edu.cn/info/1030/2560.htm" target="_blank" title="å³äºåå¥½2025å¹´âäºä¸âãç«¯åèæé´æ­£é£èçºªå·¥ä½çéç¥" class="wl">
+                                    <h3 class="l2 txt1">å³äºåå¥½2025å¹´âäºä¸âãç«¯åèæé´æ­£é£èçºªå·¥ä½çéç¥</h3>
+                                </a>
+                            </li>
+                            
+<li>
+                                <a href="https://nic.cumt.edu.cn/info/1004/2633.htm" target="_blank" title="å³äºç»ä¸èº«ä»½è®¤è¯å¹³å°åçº§çéç¥" class="wl">
+                                    <h3 class="l2 txt1">å³äºç»ä¸èº«ä»½è®¤è¯å¹³å°åçº§çéç¥</h3>
+                                </a>
+                            </li>
+                            
+<li>
+                                <a href="https://zwb.cumt.edu.cn/info/1028/8108.htm" target="_blank" title="å³äºæææ ¡åºåçµçéç¥" class="wl">
+                                    <h3 class="l2 txt1">å³äºæææ ¡åºåçµçéç¥</h3>
+                                </a>
+                            </li>
+                            
+<script>_showDynClickBatch(['dynclicks_u22_69116','dynclicks_u22_69304','dynclicks_u22_69272'],[69116,69304,69272],"wbnews", 1565984872)</script>
+</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- home4 -->
+    <div class="home4 wl">
+     
+                
+        <div class="wp">
+            <div class="title flex wl">
+                <div class="h3 flex">
+                    <div class="img"><img src="images/tit5.png" alt=""></div>
+                    <h3>
+                        <span><a href="xxgk/jbsj2.htm" target="_blank" style="color:#ffffff;">æ°æ®ç¿å¤§</a></span>
+                   <p><b>cumt</b><i>data</i></p>
+                    </h3>
+                </div>
+            </div>
+            <div class="home4-t wl aos" data-aos="fade-up"> <div class="h4-s1"><div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<ul class="flex">                     
+<li>
+                            <a class="" href="info/1406/69152.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/A/41/BE/2154A69B583C6D3815C374AB70D_CD7E6F86_E1E.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">23</span>ä¸ª</h3>
+                                    <p class="wl">å­¦é¢</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1407/69153.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/A/BE/40/447724A71B4E871780C3EF083CF_43A8F541_88C.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">74</span>ä¸ª</h3>
+                                    <p class="wl">æ¬ç§ä¸ä¸</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1407/69154.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/9/FA/D6/420D7E8F18F80F3426FB4C92E98_2C38A3DB_DD4.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">21</span>ä¸ª</h3>
+                                    <p class="wl">åå£«å­¦ä½ææä¸çº§å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1407/69155.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/9/AE/0D/7DD26CC1F5BF0D8D8FD047346F9_78745E57_A34.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">36</span>ä¸ª</h3>
+                                    <p class="wl">ç¡å£«å­¦ä½ææä¸çº§å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1407/69156.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/3/19/BA/182915843D7EDE600A640B85B2A_37FCAC1E_E8C.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">5</span>ä¸ª</h3>
+                                    <p class="wl">åå£«ä¸ä¸å­¦ä½ææç¹</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1407/69157.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/3/D9/27/8C8C4E8E045013D277A7320C396_669A3207_AC0.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">20</span>ä¸ª</h3>
+                                    <p class="wl">ç¡å£«ä¸ä¸å­¦ä½ææç¹</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1407/69158.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/1/02/59/E9F4C548A1A98CAE5DD7CFBC070_235B420D_CE2.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">2</span>ä¸ª</h3>
+                                    <p class="wl">âåä¸æµâå»ºè®¾å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+</ul>
+</div>
+
+<div class="swiper-slide">
+<ul class="flex">                     
+<li>
+                            <a class="" href="info/1407/69159.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/F/06/41/169AF2AC7DE55EB659DE611C0B5_1B8983AB_E25.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">1</span>ä¸ª</h3>
+                                    <p class="wl">ä¸çº§å­¦ç§å½å®¶éç¹å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1407/69160.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/9/AE/0D/7DD26CC1F5BF0D8D8FD047346F9_78745E57_A34.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">8</span>ä¸ª</h3>
+                                    <p class="wl">äºçº§å­¦ç§å½å®¶éç¹å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1407/69161.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/2/E1/16/746F1FA351EAF7D84CEFB1AC642_A1223093_C73.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">1</span>ä¸ª</h3>
+                                    <p class="wl">å½å®¶éç¹ï¼å¹è²ï¼å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1407/69162.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/9/AE/0D/7DD26CC1F5BF0D8D8FD047346F9_78745E57_A34.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">â7</span>ä¸ª</h3>
+                                    <p class="wl">æ±èé«æ ¡ä¼å¿å­¦ç§å»ºè®¾å·¥ç¨åæç«é¡¹å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1407/69163.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/F/C6/13/076EF0CFBD6C723CCB3F6082B15_2D4342B9_A64.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">7</span>ä¸ª</h3>
+                                    <p class="wl">âååäºâæ±èçéç¹å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1407/69164.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/A/41/BE/2154A69B583C6D3815C374AB70D_CD7E6F86_E1E.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">18</span>ä¸ª</h3>
+                                    <p class="wl">åå£«åç§ç æµå¨ç«</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1408/69165.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/9/FA/D6/420D7E8F18F80F3426FB4C92E98_2C38A3DB_DD4.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">ââ2</span>äºº</h3>
+                                    <p class="wl">ä¸¤é¢é¢å£«</p>
+
+                                </div>
+                            </a>
+                        </li>
+</ul>
+</div>
+
+<div class="swiper-slide">
+<ul class="flex">                     
+<li>
+                            <a class="" href="info/1408/69166.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/2/81/CB/1409ABB15D451124FEF99A427E6_189C2D79_B4A.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">2226</span>äºº</h3>
+                                    <p class="wl">ä¸ä»»æå¸æ°</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1408/69167.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/A/F3/85/3C7341992E5C1EF1825578126E5_4EDF6F41_EA1.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">498</span>äºº</h3>
+                                    <p class="wl">åèæ­£é«çº§å²ä½ä¸ä»»æå¸</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1409/69168.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/B/AB/84/5EFAB47D9876E8360DC305F62C2_3ED31672_B22.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">6</span>ä¸ª</h3>
+                                    <p class="wl">å¨å½éç¹å®éªå®¤</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1409/69169.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/5/B2/EF/D86F8A1B0113637B08F3C7E696B_25AF5996_DF5.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">2</span>ä¸ª</h3>
+                                    <p class="wl">å½å®¶å·¥ç¨ï¼ææ¯ï¼ç ç©¶ä¸­å¿</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1409/69170.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/3/19/BA/182915843D7EDE600A640B85B2A_37FCAC1E_E8C.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">1</span>ä¸ª</h3>
+                                    <p class="wl">å½å®¶å°æ¹èåå·¥ç¨å®éªå®¤</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1409/69171.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/E/C3/A2/E6809A058238F579AC535A32462_480DE0F8_970.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">1</span>ä¸ª</h3>
+                                    <p class="wl">å½å®¶å¤§å­¦ç§æå­</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1409/69172.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/1/02/59/E9F4C548A1A98CAE5DD7CFBC070_235B420D_CE2.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">55</span>ä¸ª</h3>
+                                    <p class="wl">çé¨çº§ç§ç å¹³å°</p>
+
+                                </div>
+                            </a>
+                        </li>
+</ul>
+</div>
+
+
+<div class="swiper-slide">
+<ul class="flex">                     
+<li>
+                            <a class="" href="info/1410/69173.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/A/41/BE/2154A69B583C6D3815C374AB70D_CD7E6F86_E1E.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">23959</span>äºº</h3>
+                                    <p class="wl">å¨æ¥å¶æ¬ç§çæ°</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1410/69174.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/D/7C/EA/83E1C95A9DFD0E63D9E1208F1ED_268B41FA_B0C.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">â10788</span>äºº</h3>
+                                    <p class="wl">ç¡å£«çæ°</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1410/69175.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/3/D9/27/8C8C4E8E045013D277A7320C396_669A3207_AC0.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">3674</span>äºº</h3>
+                                    <p class="wl">åå£«çæ°</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1410/69176.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/A/F3/85/3C7341992E5C1EF1825578126E5_4EDF6F41_EA1.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">851</span>äºº</h3>
+                                    <p class="wl">å¤å½çå­¦çæ°ï¼å­¦åçï¼</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1411/69177.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/1/94/84/73481DACCDBA6FA35907B00B3A9_7B1952F1_105C.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">2</span>ä¸ª</h3>
+                                    <p class="wl">æ ¡å­æ°é</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1411/69178.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/4/64/BE/B180540E8476929E85715958C98_FE032E05_D64.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">156</span>ä¸å¹³æ¹ç±³</h3>
+                                    <p class="wl">æ ¡èå»ºç­é¢ç§¯</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1411/69179.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/C/5E/86/FAF473A818E3B51179208404C1D_60D12C0F_D47.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">65</span>%</h3>
+                                    <p class="wl">åæ¹æ ¡åºç»¿åè¦çç</p>
+
+                                </div>
+                            </a>
+                        </li>
+</ul>
+</div>
+
+<div class="swiper-slide">
+<ul class="flex">                     
+<li>
+                            <a class="" href="info/1411/69180.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/C/5E/86/FAF473A818E3B51179208404C1D_60D12C0F_D47.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">46</span>%</h3>
+                                    <p class="wl">æææ ¡åºç»¿åè¦çç</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1412/69181.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/8/98/6F/05E82E8B07D4D3A05B6DFBF8F0E_494E10E9_100E.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">16</span>ä¸ª</h3>
+                                    <p class="wl">é¤åæ°é</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1412/69182.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/F/F8/39/F09B9BDADDA8A8B7284C4CC9617_307AA31E_D58.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">2000</span>å¤ä¸åï¼ä»¶ï¼</h3>
+                                    <p class="wl">é¦èå¾ä¹¦</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1412/69183.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/D/B0/CE/8135F53CA9D75A4D9CB99419F87_71C61E7B_B50.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">1</span>ä¸ª</h3>
+                                    <p class="wl">ä½è²é¦</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1412/69184.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/2/EC/AA/28B4B50C2CED99D66FE0085E0BD_EF11154E_9E7.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">4</span>ä¸ª</h3>
+                                    <p class="wl">è¿å¨åº</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1412/69185.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/F/54/5B/905E2AF34DF042DD2B061C3B8CB_721A7BBD_81C.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">46</span>ä¸ª</h3>
+                                    <p class="wl">å®¤å¤ç¯®çåº</p>
+
+                                </div>
+                            </a>
+                        </li>
+<li>
+                            <a class="" href="info/1412/69186.htm" target="_blank">
+                                <div class="img wl">
+                                    <img src="/__local/7/18/DA/D610370C084C0170E0D459AC7FB_DF1EC388_B5B.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">25</span>ä¸ª</h3>
+                                    <p class="wl">å®¤å¤ç½çåº</p>
+
+                                </div>
+                            </a>
+                        </li>
+</ul>
+</div>
+
+
+
+   </div>
+                </div>
+                <div class="arror swiper-button-prev"></div>
+                <div class="arror swiper-button-next"></div><script>_showDynClickBatch(['dynclicks_u23_69152','dynclicks_u23_69153','dynclicks_u23_69154','dynclicks_u23_69155','dynclicks_u23_69156','dynclicks_u23_69157','dynclicks_u23_69158','dynclicks_u23_69159','dynclicks_u23_69160','dynclicks_u23_69161','dynclicks_u23_69162','dynclicks_u23_69163','dynclicks_u23_69164','dynclicks_u23_69165','dynclicks_u23_69166','dynclicks_u23_69167','dynclicks_u23_69168','dynclicks_u23_69169','dynclicks_u23_69170','dynclicks_u23_69171','dynclicks_u23_69172','dynclicks_u23_69173','dynclicks_u23_69174','dynclicks_u23_69175','dynclicks_u23_69176','dynclicks_u23_69177','dynclicks_u23_69178','dynclicks_u23_69179','dynclicks_u23_69180','dynclicks_u23_69181','dynclicks_u23_69182','dynclicks_u23_69183','dynclicks_u23_69184','dynclicks_u23_69185','dynclicks_u23_69186'],[69152,69153,69154,69155,69156,69157,69158,69159,69160,69161,69162,69163,69164,69165,69166,69167,69168,69169,69170,69171,69172,69173,69174,69175,69176,69177,69178,69179,69180,69181,69182,69183,69184,69185,69186],"wbnews", 1565984872)</script>
+</div>
+            
+            <!-- ææº -->
+            <div class="h4-s2">
+                            <div class="swiper-container">
+                    <ul class="swiper-wrapper">
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/A/41/BE/2154A69B583C6D3815C374AB70D_CD7E6F86_E1E.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">23</span>ä¸ª</h3>
+                                    <p class="wl">å­¦é¢</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/A/BE/40/447724A71B4E871780C3EF083CF_43A8F541_88C.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">74</span>ä¸ª</h3>
+                                    <p class="wl">æ¬ç§ä¸ä¸</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/9/FA/D6/420D7E8F18F80F3426FB4C92E98_2C38A3DB_DD4.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">21</span>ä¸ª</h3>
+                                    <p class="wl">åå£«å­¦ä½ææä¸çº§å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/9/AE/0D/7DD26CC1F5BF0D8D8FD047346F9_78745E57_A34.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">36</span>ä¸ª</h3>
+                                    <p class="wl">ç¡å£«å­¦ä½ææä¸çº§å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/3/19/BA/182915843D7EDE600A640B85B2A_37FCAC1E_E8C.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">5</span>ä¸ª</h3>
+                                    <p class="wl">åå£«ä¸ä¸å­¦ä½ææç¹</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/3/D9/27/8C8C4E8E045013D277A7320C396_669A3207_AC0.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">20</span>ä¸ª</h3>
+                                    <p class="wl">ç¡å£«ä¸ä¸å­¦ä½ææç¹</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/1/02/59/E9F4C548A1A98CAE5DD7CFBC070_235B420D_CE2.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">2</span>ä¸ª</h3>
+                                    <p class="wl">âåä¸æµâå»ºè®¾å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/F/06/41/169AF2AC7DE55EB659DE611C0B5_1B8983AB_E25.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">1</span>ä¸ª</h3>
+                                    <p class="wl">ä¸çº§å­¦ç§å½å®¶éç¹å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/9/AE/0D/7DD26CC1F5BF0D8D8FD047346F9_78745E57_A34.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">8</span>ä¸ª</h3>
+                                    <p class="wl">äºçº§å­¦ç§å½å®¶éç¹å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/2/E1/16/746F1FA351EAF7D84CEFB1AC642_A1223093_C73.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">1</span>ä¸ª</h3>
+                                    <p class="wl">å½å®¶éç¹ï¼å¹è²ï¼å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/9/AE/0D/7DD26CC1F5BF0D8D8FD047346F9_78745E57_A34.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">â7</span>ä¸ª</h3>
+                                    <p class="wl">æ±èé«æ ¡ä¼å¿å­¦ç§å»ºè®¾å·¥ç¨åæç«é¡¹å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/F/C6/13/076EF0CFBD6C723CCB3F6082B15_2D4342B9_A64.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">7</span>ä¸ª</h3>
+                                    <p class="wl">âååäºâæ±èçéç¹å­¦ç§</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/A/41/BE/2154A69B583C6D3815C374AB70D_CD7E6F86_E1E.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">18</span>ä¸ª</h3>
+                                    <p class="wl">åå£«åç§ç æµå¨ç«</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/9/FA/D6/420D7E8F18F80F3426FB4C92E98_2C38A3DB_DD4.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">ââ2</span>äºº</h3>
+                                    <p class="wl">ä¸¤é¢é¢å£«</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/2/81/CB/1409ABB15D451124FEF99A427E6_189C2D79_B4A.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">2226</span>äºº</h3>
+                                    <p class="wl">ä¸ä»»æå¸æ°</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/A/F3/85/3C7341992E5C1EF1825578126E5_4EDF6F41_EA1.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">498</span>äºº</h3>
+                                    <p class="wl">åèæ­£é«çº§å²ä½ä¸ä»»æå¸</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/B/AB/84/5EFAB47D9876E8360DC305F62C2_3ED31672_B22.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">6</span>ä¸ª</h3>
+                                    <p class="wl">å¨å½éç¹å®éªå®¤</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/5/B2/EF/D86F8A1B0113637B08F3C7E696B_25AF5996_DF5.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">2</span>ä¸ª</h3>
+                                    <p class="wl">å½å®¶å·¥ç¨ï¼ææ¯ï¼ç ç©¶ä¸­å¿</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/3/19/BA/182915843D7EDE600A640B85B2A_37FCAC1E_E8C.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">1</span>ä¸ª</h3>
+                                    <p class="wl">å½å®¶å°æ¹èåå·¥ç¨å®éªå®¤</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/E/C3/A2/E6809A058238F579AC535A32462_480DE0F8_970.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">1</span>ä¸ª</h3>
+                                    <p class="wl">å½å®¶å¤§å­¦ç§æå­</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/1/02/59/E9F4C548A1A98CAE5DD7CFBC070_235B420D_CE2.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">55</span>ä¸ª</h3>
+                                    <p class="wl">çé¨çº§ç§ç å¹³å°</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/A/41/BE/2154A69B583C6D3815C374AB70D_CD7E6F86_E1E.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">23959</span>äºº</h3>
+                                    <p class="wl">å¨æ¥å¶æ¬ç§çæ°</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/D/7C/EA/83E1C95A9DFD0E63D9E1208F1ED_268B41FA_B0C.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">â10788</span>äºº</h3>
+                                    <p class="wl">ç¡å£«çæ°</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/3/D9/27/8C8C4E8E045013D277A7320C396_669A3207_AC0.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">3674</span>äºº</h3>
+                                    <p class="wl">åå£«çæ°</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/A/F3/85/3C7341992E5C1EF1825578126E5_4EDF6F41_EA1.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">851</span>äºº</h3>
+                                    <p class="wl">å¤å½çå­¦çæ°ï¼å­¦åçï¼</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/1/94/84/73481DACCDBA6FA35907B00B3A9_7B1952F1_105C.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">2</span>ä¸ª</h3>
+                                    <p class="wl">æ ¡å­æ°é</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/4/64/BE/B180540E8476929E85715958C98_FE032E05_D64.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">156</span>ä¸å¹³æ¹ç±³</h3>
+                                    <p class="wl">æ ¡èå»ºç­é¢ç§¯</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/C/5E/86/FAF473A818E3B51179208404C1D_60D12C0F_D47.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">65</span>%</h3>
+                                    <p class="wl">åæ¹æ ¡åºç»¿åè¦çç</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/C/5E/86/FAF473A818E3B51179208404C1D_60D12C0F_D47.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">46</span>%</h3>
+                                    <p class="wl">æææ ¡åºç»¿åè¦çç</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/8/98/6F/05E82E8B07D4D3A05B6DFBF8F0E_494E10E9_100E.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">16</span>ä¸ª</h3>
+                                    <p class="wl">é¤åæ°é</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/F/F8/39/F09B9BDADDA8A8B7284C4CC9617_307AA31E_D58.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">2000</span>å¤ä¸åï¼ä»¶ï¼</h3>
+                                    <p class="wl">é¦èå¾ä¹¦</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/D/B0/CE/8135F53CA9D75A4D9CB99419F87_71C61E7B_B50.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">1</span>ä¸ª</h3>
+                                    <p class="wl">ä½è²é¦</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/2/EC/AA/28B4B50C2CED99D66FE0085E0BD_EF11154E_9E7.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">4</span>ä¸ª</h3>
+                                    <p class="wl">è¿å¨åº</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/F/54/5B/905E2AF34DF042DD2B061C3B8CB_721A7BBD_81C.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">46</span>ä¸ª</h3>
+                                    <p class="wl">å®¤å¤ç¯®çåº</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+<li class="swiper-slide">
+                            <a class="">
+                                <div class="img wl">
+                                    <img src="/__local/7/18/DA/D610370C084C0170E0D459AC7FB_DF1EC388_B5B.png" alt="">
+                                </div>
+                                <div class="con wl">
+                                    <h3><span class="sz">25</span>ä¸ª</h3>
+                                    <p class="wl">å®¤å¤ç½çåº</p>
+
+                                </div>
+                            </a>
+                        </li>
+                        
+</ul>
+                </div>
+                <div class="arror swiper-button-prev"></div>
+                <div class="arror swiper-button-next"></div><script>_showDynClickBatch(['dynclicks_u24_69152','dynclicks_u24_69153','dynclicks_u24_69154','dynclicks_u24_69155','dynclicks_u24_69156','dynclicks_u24_69157','dynclicks_u24_69158','dynclicks_u24_69159','dynclicks_u24_69160','dynclicks_u24_69161','dynclicks_u24_69162','dynclicks_u24_69163','dynclicks_u24_69164','dynclicks_u24_69165','dynclicks_u24_69166','dynclicks_u24_69167','dynclicks_u24_69168','dynclicks_u24_69169','dynclicks_u24_69170','dynclicks_u24_69171','dynclicks_u24_69172','dynclicks_u24_69173','dynclicks_u24_69174','dynclicks_u24_69175','dynclicks_u24_69176','dynclicks_u24_69177','dynclicks_u24_69178','dynclicks_u24_69179','dynclicks_u24_69180','dynclicks_u24_69181','dynclicks_u24_69182','dynclicks_u24_69183','dynclicks_u24_69184','dynclicks_u24_69185','dynclicks_u24_69186'],[69152,69153,69154,69155,69156,69157,69158,69159,69160,69161,69162,69163,69164,69165,69166,69167,69168,69169,69170,69171,69172,69173,69174,69175,69176,69177,69178,69179,69180,69181,69182,69183,69184,69185,69186],"wbnews", 1565984872)</script>
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+    <!-- home6 -->
+    <div class="home5 wl">
+        <div class="wp">
+            <div class="home5-t flex">
+                <div class="left wl aos" data-aos="fade-up">
+
+                    <div class="con">
+                        <a href="javascript:;" class="list_vtc" data-video="images/xcpsp.mp4">
+                            <div class="scale">
+                                <div class="imged wl" style="background: url(/__local/9/B6/F8/4C638D3FB2D6E2A4A7696914122_1A65F935_328C3.jpg) no-repeat;">
+                                    <img src="/__local/9/B6/F8/4C638D3FB2D6E2A4A7696914122_1A65F935_328C3.jpg" alt="">
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                
+
+<script>_showDynClickBatch(['dynclicks_u25_67360'],[67360],"wbnews", 1565984872)</script>
+</div>
+                <div class="right wl aos" data-aos="fade-left">
+                    <div class="title flex">
+                        <div class="h3 flex">
+                            <div class="img"><img src="images/tit6.png" alt=""></div>
+                            <h3>
+                                <span>å¥è¯»ç¿å¤§</span>
+                             <p><b>cumt</b><i>Admission</i></p>
+                            </h3>
+                        </div>
+                    </div>
+                <ul>
+
+
+<li>
+                            <a href="http://zs.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99148)" class="flex">
+                                <h3>æ¬ç§çæç</h3>
+                                <span><img src="images/h5-xq.png" alt=""></span>
+                            </a>
+                        </li>
+                        
+<li>
+                            <a href="http://yz.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99149)" class="flex">
+                                <h3>ç ç©¶çæç</h3>
+                                <span><img src="images/h5-xq.png" alt=""></span>
+                            </a>
+                        </li>
+                        
+<li>
+                            <a href="https://sac.cumt.edu.cn/zsgl/zozy/bkzwskzy.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99150)" class="flex">
+                                <h3>å½éå­¦çæç</h3>
+                                <span><img src="images/h5-xq.png" alt=""></span>
+                            </a>
+                        </li>
+                        
+<li>
+                            <a href="http://cumt.fy.chaoxing.com/portal" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99151)" class="flex">
+                                <h3>å¨çº¿æè²</h3>
+                                <span><img src="images/h5-xq.png" alt=""></span>
+                            </a>
+                        </li>
+                        
+</ul>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- home5 -->
+    <div class="home6 wl">
+        <div class="wp flex">
+            <div class="title flex">
+                <div class="h3">
+                    <div class="img"><img src="images/tit7.png" alt=""></div>
+                    <h3>
+                        <span>èåªæ å</span>
+                        <p>Convergence </p>
+                    </h3>
+                </div>
+                  
+<ul class="ul-iconsb1 flex">
+                     <li>
+                        <div class="con">
+                            <div class="icon">
+                                <img src="images/h61-i1.png" alt="">
+                            </div>
+                            <div class="qrbox">
+                                <div class="qr">
+                                    <img src="images/wbewm.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="con">
+                            <div class="icon">
+                                <img src="images/h61-i2.png" alt="">
+                            </div>
+                            <div class="qrbox">
+                                <div class="qr">
+                                    <img src="images/wxerm.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="con">
+                            <div class="icon">
+                                <img src="images/h61-i3.png" alt="">
+                            </div>
+                            <div class="qrbox">
+                                <div class="qr">
+                                    <img src="images/dyewm.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                                        <li>
+                        <div class="con">
+                            <div class="icon">
+                                <img src="images/h61-i4.png" alt="">
+                            </div>
+                            <div class="qrbox">
+                                <div class="qr">
+                                    <img src="images/wbewm.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                        </ul>
+            </div>
+            <div class="home6-t flex aos" data-aos="fade-up">
+                <div class="left">
+                    <ul class="flex h6-li1">
+
+
+
+                        <li>
+                            <a href="https://mp.weixin.qq.com/s/L6Hu4agcIMm-0B-lIpEqsg" target="_blank" title="ä¸­å½ç¿å¤§ï¼116å²çæ¥å¿«ä¹ï¼">
+                                <div class="scale">
+                                    <div class="imged wl" style="background: url(/__local/6/D2/D6/F5D2A37BE6A29824B6A5FA07F3E_30F644E8_4547C.png) no-repeat;">
+                                    </div>
+                                </div>
+                                <div class="con flex">
+                                    <span></span>
+                                    <p class="l1 txt1">ä¸­å½ç¿å¤§ï¼116å²çæ¥å¿«ä¹ï¼</p>
+                                </div>
+                            </a>
+                        </li>
+                
+                    
+
+
+
+                        <li>
+                            <a href="https://v.douyin.com/93oEke6XwAc/" target="_blank" title="âç¿å¼æµªæ¼«âï¼é¨ä¸­éæ¹çï¼ç¿å¤§å¸çå±åå±åçæ¥æ­ï¼ç¥ç¦å­¦æ ¡116å²çæ¥å¿«ä¹ï¼">
+                                <div class="scale">
+                                    <div class="imged wl" style="background: url(/__local/1/70/B7/5BEC74CF1932941DAECDBA03153_E05BF338_79022.png) no-repeat;">
+                                    </div>
+                                </div>
+                                <div class="con flex">
+                                    <span><img src="images/dy.png" alt="">
+                                    </span>
+                                    <p class="l1 txt1">âç¿å¼æµªæ¼«âï¼é¨ä¸­éæ¹çï¼ç¿å¤§å¸çå±åå±åçæ¥æ­ï¼ç¥ç¦å­¦æ ¡116å²çæ¥å¿«ä¹ï¼</p>
+                                </div>
+                            </a>
+                        </li>
+                
+                    
+
+ </ul><script>_showDynClickBatch(['dynclicks_u28_69292','dynclicks_u28_67473'],[69292,67473],"wbnews", 1565984872)</script>
+
+                    <ul class="flex h6-li2">
+                         <li>
+
+
+                            <a href="https://vis.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99153)">
+                                <div class="scale">
+                                    <div class="imged" style="background: url(images/h6-img.jpg) no-repeat;">
+                                    </div>
+                                </div>
+                            </a>
+                        
+
+  </li>
+                      <li><dl class="h6-s">
+                                
+<dt>
+                                    <a href="http://news.cumt.edu.cn/yxkd1.htm" target="_blank" title="ä¸­å½ç¿ä¸å¤§å­¦å®æ¹å®£ä¼ çãè¡å¥å¤©ååã">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(/__local/E/92/43/457774C25D91CD7D8D8305016A7_35D59370_2CB6B3.png) no-repeat;">
+                                            </div>
+                                        </div>
+                                        <div class="con flex wl">
+                                            <span><img src="images/yx.png" alt=""></span>
+                                            <h3 class="l1 txt1">å½±åç¿å¤§</h3>
+                                        </div>
+                                    </a>
+                                </dt>
+                                
+<dt>
+                                    <a href="http://news.cumt.edu.cn/yxkd1.htm" target="_blank" title="å¤§åå¼æ¬æè²å®¶ç²¾ç¥ åæå¼ºå½å»ºè®¾ä½¿å½ââç®ç»ä¸­å½ç¿ä¸å¤§å­¦å¨ä½æå¸">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(/__local/1/50/74/6098F54E72CD6D5188AE5CAA1E1_B9929B5F_1944D8.png) no-repeat;">
+                                            </div>
+                                        </div>
+                                        <div class="con flex wl">
+                                            <span><img src="images/yx.png" alt=""></span>
+                                            <h3 class="l1 txt1">å½±åç¿å¤§</h3>
+                                        </div>
+                                    </a>
+                                </dt>
+                                
+<dt>
+                                    <a href="http://news.cumt.edu.cn/yxkd1.htm" target="_blank" title="æ±èçå§ä¹¦è®°ä¿¡é¿æå°æ·±å°ç§å­¦ä¸å·¥ç¨äºé¾æ¹å®éªå®¤è°ç ">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(/__local/B/BA/3A/AB62E7230CBC620B4AFE1279B11_9825DC21_60400.jpeg) no-repeat;">
+                                            </div>
+                                        </div>
+                                        <div class="con flex wl">
+                                            <span><img src="images/yx.png" alt=""></span>
+                                            <h3 class="l1 txt1">å½±åç¿å¤§</h3>
+                                        </div>
+                                    </a>
+                                </dt>
+                                
+<dt>
+                                    <a href="http://news.cumt.edu.cn/yxkd1.htm" target="_blank" title="å¤å½©ç¿å¤§">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(/__local/3/66/53/269305DF20A9F0B01283C39B32E_A32BE8AA_22FB28.jpg) no-repeat;">
+                                            </div>
+                                        </div>
+                                        <div class="con flex wl">
+                                            <span><img src="images/yx.png" alt=""></span>
+                                            <h3 class="l1 txt1">å½±åç¿å¤§</h3>
+                                        </div>
+                                    </a>
+                                </dt>
+                                
+</dl> </li><script>_showDynClickBatch(['dynclicks_u30_67573','dynclicks_u30_67932','dynclicks_u30_68589','dynclicks_u30_67476'],[67573,67932,68589,67476],"wbnews", 1565984872)</script>
+
+                    </ul>
+                </div>
+                <div class="right">
+                   <ul>
+
+
+
+
+
+
+
+
+                        <li>
+                            <a href="https://mp.weixin.qq.com/s/1m9ANW57nuZTDyxht-tffQ" target="_blank" title="ä¸æ¾å¼ï¼åæ¢æ¼ï¼ç¿å¤§ç·ç¯®ï¼å¥½æ ·çï¼">
+                                <div class="scale">
+                                    <div class="imged wl" style="background: url(/__local/7/09/1D/D3E2C64338ACD482FA5296C233D_9EE0E9AD_8B5E3.png) no-repeat;">
+                                    </div>
+                                </div>
+                                <div class="con flex">
+                                    <span></span>
+                                    <p class="l1 txt1">ä¸æ¾å¼ï¼åæ¢æ¼ï¼ç¿å¤§ç·ç¯®ï¼å¥½æ ·çï¼</p>
+                                </div>
+                            </a>
+                        </li>
+
+
+
+ </ul><script>_showDynClickBatch(['dynclicks_u31_69292','dynclicks_u31_67473','dynclicks_u31_69293'],[69292,67473,69293],"wbnews", 1565984872)</script>
+
+                    <div class="h6-b flex">
+                        <div class="h6-l">
+                        
+                        
+                                                           <dl class="h6-s">
+   
+
+                        
+                                <dt>
+                                    <a href="https://news.cumt.edu.cn/xbzt.htm" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1011295)" target="_blank">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(images/20250226085330.png) no-repeat;">
+                                            </div>
+                                        </div>
+                                    </a>
+                                </dt>
+                           
+                        
+
+
+
+                        
+                                <dt>
+                                    <a href="https://www.sciencedirect.com/journal/international-journal-of-mining-science-and-technology" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1011292)" target="_blank">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(images/szbk1.jpg) no-repeat;">
+                                            </div>
+                                        </div>
+                                    </a>
+                                </dt>
+                           
+                        
+
+
+
+                        
+                                <dt>
+                                    <a href="https://duse.cumt.edu.cn/" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1011325)" target="_blank">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(images/szbk2.jpg) no-repeat;">
+                                            </div>
+                                        </div>
+                                    </a>
+                                </dt>
+                           
+                        
+
+
+
+                        
+                                <dt>
+                                    <a href="http://publish.cnki.net/kdsk" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1011293)" target="_blank">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(images/szbk5.png) no-repeat;">
+                                            </div>
+                                        </div>
+                                    </a>
+                                </dt>
+                           
+                        
+
+
+
+                        
+                                <dt>
+                                    <a href="https://kdxb.cumt.edu.cn/" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1011326)" target="_blank">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(images/szbk6.png) no-repeat;">
+                                            </div>
+                                        </div>
+                                    </a>
+                                </dt>
+                           
+                        
+
+
+
+                        
+                                <dt>
+                                    <a href="https://mtgj.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=mtgj" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1011294)" target="_blank">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(images/szbk3.png) no-repeat;">
+                                            </div>
+                                        </div>
+                                    </a>
+                                </dt>
+                           
+                        
+
+
+
+                        
+                                <dt>
+                                    <a href="http://ckxb.cumt.edu.cn/" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1011348)" target="_blank">
+                                        <div class="scale">
+                                            <div class="imged wl" style="background: url(images/20240929093817.jpg) no-repeat;">
+                                            </div>
+                                        </div>
+                                    </a>
+                                </dt>
+                           
+                        
+
+ </dl>
+                            
+              
+                        
+                        
+                        </div>
+                        <div class="tit">
+                            <h3 class="flex"><img src="images/tit8.png" alt="">æ°å­æ¥å</h3>
+                  
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- home7 -->
+    <div class="home7 wl">
+        <div class="wp">
+            <div class="home7-t flex wl aos" data-aos="fade-up">
+                <div class="title flex">
+                    <div class="h3">
+                        <h3>
+                            <span>æåç¿å¤§</span>
+                           <p><b>cumt</b><i>culture</i></p>
+                        </h3>
+                    </div>
+                </div>
+                <div class="h7-t">
+                
+                
+
+     
+     <div class="swiper-container">
+                        <ul class="swiper-wrapper">
+                            
+
+<li class="swiper-slide">
+                                <a href="xxgk/xywh/xyjs.htm" target="_blank" class="">
+                                    <div class="con">
+                                        <h3 class="l2 txt1">
+                                         <script language="javascript" src="/system/resource/js/news/mp4video.js"></script>
+<p>åæä»¥ä¹ è¿å¹³æåææ³ä¸ºæå¼ï¼å¢å¼ºä¸­å½ç¹è²ç¤¾ä¼ä¸»ä¹æåèªä¿¡ï¼ä»ä¸­åä¼ç§ä¼ ç»æåä¸­æ±²åæºæ§åéï¼ä»¥æåäººãä»¥æè²äººï¼å å¿«è½æºèµæºç¹è²ä¸çä¸æµå¤§å­¦å»ºè®¾ï¼ä¸ºå¼ºå½å»ºè®¾ãæ°æå¤å´ä½åºæ°çæ´å¤§è´¡ç®ã</p>
+                                            
+                                            </h3>
+                                    </div>
+                                </a>
+                            </li>
+                            
+
+</ul>
+                    </div>
+                    <!-- <div class="arror swiper-button-prev"></div> -->
+                    <div class="arror swiper-button-next" style="display:none;"></div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- home8 -->
+    <div class="home8 wl">
+        <div class="wp">
+            <div class="title flex">
+                <div class="h3">
+                      <div class="img"><img src="images/tit9.png" alt=""></div>
+                    <h3>
+                        <span>ä¸é¢èç¦</span>
+                        <p>Special Focus</p>
+                    </h3>
+                </div>
+            </div>
+            <div class="home8-t">    
+
+ <div class="swiper-container">
+                    <ul class="swiper-wrapper">
+                                                <li class="swiper-slide">
+                            <a href="https://20th.cumt.edu.cn/" title="å­¦ä¹ å®£ä¼ è´¯å½»åçäºåå¤§ç²¾ç¥ä¸é¢ç½" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1008865)" target="_blank" class="wl">
+                                <div class="scale">
+                                    <div class="imged" style="background: url(images/zt1.jpg) no-repeat;">
+                                        <img src="images/zt1.jpg" alt="">
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="swiper-slide">
+                            <a href="https://ztjy2023.cumt.edu.cn/" title="å­¦ä¹ è´¯å½»ä¹ è¿å¹³æ°æ¶ä»£ä¸­å½ç¹è²ç¤¾ä¼ä¸»ä¹ææ³ä¸»é¢æè²ä¸é¢ç½ç«" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1008866)" target="_blank" class="wl">
+                                <div class="scale">
+                                    <div class="imged" style="background: url(images/zt2.jpg) no-repeat;">
+                                        <img src="images/zt2.jpg" alt="">
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="swiper-slide">
+                            <a href="https://dwxcb.cumt.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1108" title="æ·±å¥è´¯å½»ä¸­å¤®å«é¡¹è§å®ç²¾ç¥å­¦ä¹ æè²" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1018023)" target="_blank" class="wl">
+                                <div class="scale">
+                                    <div class="imged" style="background: url(images/xxjy.jpg) no-repeat;">
+                                        <img src="images/xxjy.jpg" alt="">
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="swiper-slide">
+                            <a href="https://ssw.cumt.edu.cn/" title="åäºäºè§å" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1008867)" target="_blank" class="wl">
+                                <div class="scale">
+                                    <div class="imged" style="background: url(images/8aad8c221059af49384ba1d6850cd877_zt3.png) no-repeat;">
+                                        <img src="images/8aad8c221059af49384ba1d6850cd877_zt3.png" alt="">
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="swiper-slide">
+                            <a href="https://xkc.cumt.edu.cn/syljs/jsxk.htm" title="åä¸æµå»ºè®¾" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1008870)" target="_blank" class="wl">
+                                <div class="scale">
+                                    <div class="imged" style="background: url(images/ztzl7.png) no-repeat;">
+                                        <img src="images/ztzl7.png" alt="">
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="swiper-slide">
+                            <a href="https://cwb.cumt.edu.cn/zyczkyxmzjglzcxcjjdzl/list.htm" title="ä¸­å¤®è´¢æ¿ç§ç é¡¹ç®èµéç®¡çæ¿ç­è§£è¯»" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1008871)" target="_blank" class="wl">
+                                <div class="scale">
+                                    <div class="imged" style="background: url(images/ztzl5.png) no-repeat;">
+                                        <img src="images/ztzl5.png" alt="">
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                             </ul>
+
+                </div>
+                <div class="cir swiper-pagination"></div></div>
+        </div>
+    </div>
+
+
+    <!-- foot -->
+    <div class="footer wl">
+        <div class="wp">
+            <div class="foot-b flex">
+                <div class="fot-1">
+                    <ul class="flex">
+                        <li><h3>å¿«ééé</h3>
+                            <dl class="flex">              
+                                
+<dt>      <a href="http://portal.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96492)" target="_blank">èåé¨æ·</a></dt>
+                                
+<dt>      <a href="xtbg.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96654)" target="_blank">åååå¬</a></dt>
+                                
+<dt>      <a href="http://mail.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96655)" target="_blank">é®ä»¶ç³»ç»</a></dt>
+                                
+<dt>      <a href="ldxx.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96656)" target="_blank">é¢å¯¼ä¿¡ç®±</a></dt>
+                                
+<dt>      <a href="https://ssfwrx.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96657)" target="_blank">å¸çç­çº¿</a></dt>
+                                
+<dt>      <a href="https://lib.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96658)" target="_blank">å¾ä¹¦é¦</a></dt>
+                                
+<dt>      <a href="http://bsdt.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96659)" target="_blank">ä¸ç½éå</a></dt>
+                                
+<dt>      <a href="kxyj/xsqk.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96660)" target="_blank">å­¦æ¯æå</a></dt>
+                                
+<dt>      <a href="http://gsoft.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96661)" target="_blank">æ­£çè½¯ä»¶</a></dt>
+                                
+<dt>      <a href="http://dygx.cumt.edu.cn:8080/customer/index/index.html" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96662)" target="_blank">ä»ªå¨å±äº«</a></dt>
+                                
+<dt>      <a href="http://faculty.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96663)" target="_blank">æå¸ä¸»é¡µ</a></dt>
+                                
+<dt>      <a href="http://rules.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96664)" target="_blank">è§ç« å¶åº¦</a></dt>
+                                
+<dt>      <a href="ggfw/xcsk.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96665)" target="_blank">å¬å±æå¡</a></dt>
+                                
+<dt>      <a href="jzyg/kstd/VPN.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96667)" target="_blank">VPN</a></dt>
+                                
+</dl></li>
+                        <li><h3>å¸¸ç¨é¾æ¥</h3>
+                            <dl class="flex">
+                                
+<dt>      <a href="https://news.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96668)" target="_blank">æ°é»ç½</a></dt>
+                                
+<dt>      <a href="http://dsh.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96465)" target="_blank">çäºä¼</a></dt>
+                                
+<dt>      <a href="http://jdh.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96466)" target="_blank">æä»£ä¼</a></dt>
+                                
+<dt>      <a href="https://cumtxyh.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96669)" target="_blank">æ ¡åä¼</a></dt>
+                                
+<dt>      <a href="https://edf.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96670)" target="_blank">åºéä¼</a></dt>
+                                
+<dt>      <a href="http://nic.cumt.edu.cn/fwzn/xyw_yxw_.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96671)" target="_blank">ç½ç»æå¡</a></dt>
+                                
+<dt>      <a href="http://zhbb.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96672)" target="_blank">éè´­ææ </a></dt>
+                                
+<dt>      <a href="https://hr.cumt.edu.cn/zpxx/gccrc.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96673)" target="_blank">äººææè</a></dt>
+                                
+<dt>      <a href="http://xxgk.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96674)" target="_blank">ä¿¡æ¯å¬å¼</a></dt>
+                                
+<dt>      <a href="http://hr.cumt.edu.cn/sdsf.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 96675)" target="_blank">å¸å¾·å¸é£</a></dt>
+                                
+<dt>      <a href="http://yunpan.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99154)" target="_blank">ç¿å¤§äºç</a></dt>
+                                
+<dt>      <a href="https://e-cumt.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99155)" target="_blank">eç¿å¤§2.0</a></dt>
+                                
+<dt>      <a href="http://background.cumt.edu.cn/cumt_ets/index" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99178)" target="_blank">è®¿å®¢å¥æ ¡</a></dt>
+                                
+<dt>      <a href="https://welcome.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99156)" target="_blank">è¿æ°ç½</a></dt>
+                                
+</dl></li>
+                    </ul>
+                </div>
+                <div class="fot-2">    
+
+
+
+                    <div class="img"> <a href="index.htm" title="" onclick="_addDynClicks(&#34;wbimage&#34;, 1565984872, 1008861)" target="_blank"><img src="images/f-logo.png" alt=""> </a></div>
+                
+
+</div>
+                <div class="fot-3">
+                    <h3>èç³»æä»¬</h3>
+                    
+<p>å°åï¼æ±èçå¾å·å¸å¤§å­¦è·¯1å·ä¸­å½ç¿ä¸å¤§å­¦åæ¹æ ¡åº</p> 
+<p>é®ç¼ï¼221116</p>
+               
+                              <ul class="ul-iconsb1 flex">
+                                 <li>
+                            <div class="con">
+                                <div class="icon">
+                                    <img src="images/wb2.png" alt="">
+                                </div>
+                                <div class="qrbox">
+                                    <div class="qr">
+                                        <img src="images/wbewm.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="con">
+                                <div class="icon">
+                                  
+  <img src="images/wx2.png" alt="">
+                                </div>
+                                <div class="qrbox">
+                                    <div class="qr">
+                                     <img src="images/wxerm.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+  
+                        <li>
+                            <div class="con">
+                                <div class="icon">
+                                
+  <img src="images/dyxt.png" alt="">
+                                </div>
+                                <div class="qrbox">
+                                    <div class="qr">
+                                         <img src="images/dyewm.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                          
+                    </ul> 
+                </div>
+            </div>
+        </div>
+        <div class="foot">
+            <div class="wp"><!-- çæåå®¹è¯·å¨æ¬ç»ä»¶"åå®¹éç½®-çæ"å¤å¡«å -->
+<p>çæææï¼ä¸­å½ç¿ä¸å¤§å­¦ &nbsp; &nbsp;<a href="https://beian.miit.gov.cn/" target="_blank">èICPå¤05007141å·-1</a> &nbsp;&nbsp; &nbsp;<a href="https://beian.mps.gov.cn/#/query/webSearch">èå¬ç½å®å¤ 32031102000872å·</a></p></div>
+        </div>
+    </div>
+    
+    
+         <!-- å³ä¾§å¯¼èª -->
+            <div class="rightFix wl"><ul>
+                  
+
+<li>
+                        <a href="index/xxgg.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99157)" target="_blank">
+                            <span><img src="images/rr1.png" alt=""></span>
+                            <p>ä¿¡æ¯å¬å</p>
+                        </a>
+                    </li>
+                    
+
+<li>
+                        <a href="http://portal.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99168)" target="_blank">
+                            <span><img src="images/rr2.png" alt=""></span>
+                            <p>èåé¨æ·</p>
+                        </a>
+                    </li>
+                    
+
+<li>
+                        <a href="http://kdoa.cumt.edu.cn/seeyon/caslogin/cumt" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99158)" target="_blank">
+                            <span><img src="images/rr3.png" alt=""></span>
+                            <p>åååå¬</p>
+                        </a>
+                    </li>
+                    
+
+<li>
+                        <a href="http://xxgk.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99159)" target="_blank">
+                            <span><img src="images/rr4.png" alt=""></span>
+                            <p>ä¿¡æ¯å¬å¼</p>
+                        </a>
+                    </li>
+                    
+
+<li>
+                        <a href="ldxx.htm" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99160)" target="_blank">
+                            <span><img src="images/rr5.png" alt=""></span>
+                            <p>é¢å¯¼ä¿¡ç®±</p>
+                        </a>
+                    </li>
+                    
+
+<li>
+                        <a href="http://mail.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99161)" target="_blank">
+                            <span><img src="images/rr6.png" alt=""></span>
+                            <p>ç¿å¤§é®ç®±</p>
+                        </a>
+                    </li>
+                    
+
+<li>
+                        <a href="https://ssfwrx.cumt.edu.cn/" target="_blank" title="" onclick="_addDynClicks(&#34;wburl&#34;, 1565984872, 99162)" target="_blank">
+                            <span><img src="images/rr7.png" alt=""></span>
+                            <p>å¸çç­çº¿</p>
+                        </a>
+                    </li>
+                    
+
+   
+        <li>
+                        <a href="javascript:;" class="gotop">
+                            <span><img src="images/top.png" alt=""></span>
+                            <p>åå°é¡¶é¨</p>
+                        </a>
+                    </li>
+     </ul></div>
+        </div>
+    </section>
+    <div class="vwrap">
+
+        <div class="videobtg"></div>
+        <div class="videobox">
+            <div id="videobox" class="img_zd">
+                <div class="img_hezi"></div>
+                <video width="100%" height="100%" controls="" poster="images/spbg.png" src="images/rmkd.mp4">
+                </video>
+            </div>
+            <div class="close"><i><svg t="1623297466363" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3150" width="18" height="18">
+                        <path d="M881.152 776.192c-0.512-1.024-1.024-1.536-2.048-2.56L616.96 511.488l262.144-262.144c0.512-1.024 1.536-1.536 2.048-2.56l1.024-1.024c28.672-28.672 28.16-74.24 0-102.912-1.024-1.024-2.048-1.536-3.072-2.56-1.536-1.536-2.56-3.072-4.096-4.096l-0.512 0.512c-28.672-21.504-69.12-19.456-95.232 6.144L514.048 408.064 251.904 146.432c-1.024-0.512-1.536-1.536-2.56-2.048l-1.024-1.024c-28.16-28.16-74.24-28.16-102.912 0-1.024 1.024-1.536 2.048-2.56 3.072-1.536 1.536-3.072 2.56-4.096 4.096l0.512 0.512c-21.504 28.672-19.456 69.12 6.144 95.232l265.216 265.216-265.216 265.216c-26.112 26.112-27.648 66.56-6.144 95.232l-0.512 0.512c1.024 1.536 2.56 2.56 4.096 4.096 1.024 1.024 1.536 2.048 2.56 3.072 28.672 28.16 74.24 28.16 102.912 0l1.024-1.024c1.024-0.512 1.536-1.024 2.56-2.048L514.048 614.4l265.216 265.216c26.112 26.112 66.56 27.648 95.232 6.144l0.512 0.512c1.536-1.024 2.56-2.56 4.096-4.096 1.024-1.024 2.048-1.536 3.072-2.56 28.16-28.672 28.16-74.24 0-102.912l-1.024-0.512z" p-id="3151" fill="#ffffff"></path>
+                    </svg></i></div> </div></div>
+</body>
+
+<script src="js/swiper.min.js"></script>
+<script src="js/slick.min.js"></script>
+<script src="js/a_animate.js"></script>
+<script src="js/jquery.mousewheel.js"></script>
+<script src="js/jquery.waypoints.min.js"></script>
+<script src="js/jquery.countup.min.js"></script>
+<script src="js/public.js"></script>
+<script src="js/index25.js"></script>
+
+<script>
+    $(function () {
+        // $(".body_h").addClass("showdiv");
+        setTimeout(function () {
+            $(".body_h").addClass("s");
+        }, 500);
+    });
+    
+     $(".shub").click(function () {
+        $(".body_b").addClass("showdiv");//.focus();
+        $(".body_h").addClass("showdiv");//.focus();
+
+    })
+
+    
+        $(".gotop").click(function () {
+        $(".body_b").removeClass("showdiv");//.focus();
+        $(".body_h").removeClass("showdiv");//.focus();
+  
+    })
+
+    $(".swipershubaio").click(function () {
+        $(".body_b").addClass("showdiv");//.focus();
+        $(".body_h").addClass("showdiv");//.focus();
+        // setTimeout(function () {
+        //     $(".body_h").removeClass("showdiv");//.addClass("leave");
+        // }, 500);
+    })
+    $(".body_h").mousewheel(function (event, delta, deltaX, deltaY) {
+        if (delta < 0) {
+            $(".body_b").addClass("showdiv");
+            $(".body_h").addClass("showdiv");
+            // setTimeout(function () {
+            //     $(".body_h").removeClass("showdiv");
+            // }, 500);
+        }
+
+    });
+    var sw_k = 1;
+    document.onkeydown = function (event) {
+        var e = event || window.event || arguments.callee.caller.arguments[0];
+        if ((e.keyCode == 40 || e.keyCode == 32 || e.keyCode == 34) && $(".body_h").hasClass("showdiv")) {
+            sw_k = 0;
+            $(".bb").click();
+            $(".body_b").animate({ scrollTop: 0 }, 10);
+            $(".body_b").focus();
+            setTimeout(function () { sw_k = 1; }, 1000);
+        }
+        if ((e.keyCode == 38 || e.keyCode == 33) && $(".body_b").hasClass("showdiv") && $(".body_b").scrollTop() == 0) {
+            sw_k = 0;
+            $(".body_h").addClass("showdiv").focus();
+
+            $(".body_b").removeClass("showdiv");
+
+            if ($(".body_b").css("position") == "fixed");
+            setTimeout(function () { sw_k = 1; }, 1000);
+        }
+
+    }
+    $(".body_b").mousewheel(function (event, delta, deltaX, deltaY) {
+        if (delta > 0 && $(".body_b").scrollTop() == 0) {
+
+            // $(".body_h").addClass("showdiv");
+            $(".body_h").removeClass("showdiv");
+            $(".body_b").removeClass("showdiv");
+        }
+
+        if (deltaY < 0 && $(".body_b").scrollTop() + $(window).height() >= $(".body_b .scroll").height()) {
+        }
+
+    });
+    $(".body_b").scroll(function () {
+        $(".home1, .home2, .home3, .home4,.home5,.home6,.home7").each(function (index, element) {
+            var e = $(this);
+            var fix = parseInt(e.attr("fix"));
+            if (!fix && fix != 0) { fix = $(window).height() * 6 * 0.1; }
+            else { fix = $(window).height() * fix * 0.1; }
+            //var h=$(window).height()-$(e).height()>0?$(window).height()-$(e).height():0;
+            // console.log(fix)
+            if ($(window).scrollTop() >= $(e).offset().top - fix - 110) {
+                if (!$(e).find(".aos").hasClass("aos-animate")) {
+                    $(e).find(".aos").addClass("aos-animate");
+                }
+                // else{
+                //     $(e).find(".aos").removeClass("aos-animate");
+                // }           
+            }
+            else {
+            }
+        });
+    });
+
+</script>
+</html>
