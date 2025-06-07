@@ -15,11 +15,11 @@ print(d.month)
 print(d.day)
 
 #创建datetime对象
-myday=datetime(2020,11,10,1,2,2,123456)
+myday=datetime(2025,6,7,1,2,2,123456)
 print(myday.microsecond)
 
 #datetime对象格式化
-print(myday.strftime('%Y年%m月%d日'))#2020年11月10日
+print(myday.strftime('%Y年%m月%d日%H时%M分%S秒'))#2025年6月7日
 
 
 #strptime()则执行相反操作，将字符串转成datetime对象
@@ -30,5 +30,7 @@ print(dt_obj)       # 输出: 2023-01-15 14:30:45
 print(type(dt_obj)) # 输出: <class 'datetime.datetime'>
 
 #isoformat和isoweekday函数
+
 #isoformat采用ISO标准显示时间
 #isoweekday计算datetime是星期几
+print(myday.isoweekday())
